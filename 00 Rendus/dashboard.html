@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TGF 2026 — AI Brain · Dashboard</title>
+<style>
+  /* Charte TGF (logo Tunisia Global Forum) :
+     bleu nuit/acier du fond, blanc typographique, rouge Tunisie du croissant */
+  :root {
+    --bg:#0b2239; --panel:#12314e; --border:#1f4a70; --txt:#f5f8fb; --muted:#8fb3cf;
+    --accent:#e70013; --accent2:#f5a623; --theme:#7fc4ec; --notion:#a8ddb5;
+  }
+  * { box-sizing:border-box; margin:0; }
+  body { background:linear-gradient(180deg,#081a2c 0%,#0b2239 40%,#0e2c49 100%); min-height:100vh;
+         color:var(--txt); font-family:-apple-system,'Segoe UI',Roboto,sans-serif; padding:32px; }
+  header { display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px;
+           margin-bottom:28px; border-bottom:3px solid var(--accent); padding-bottom:16px; }
+  h1 { font-size:1.7rem; text-transform:uppercase; letter-spacing:.04em; font-weight:800; }
+  h1 span { color:var(--accent); }
+  .ts { color:var(--muted); font-size:.85rem; }
+  h2 { font-size:1.05rem; color:var(--muted); text-transform:uppercase; letter-spacing:.08em; margin:34px 0 14px; }
+  .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(130px,1fr)); gap:14px; }
+  .kpi { background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:18px 14px; text-align:center; }
+  .kpi b { display:block; font-size:2.1rem; color:var(--accent2); }
+  .kpi small { color:var(--muted); }
+  .cloud { background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:26px; text-align:center; line-height:2.4; }
+  .cloud a { text-decoration:none; margin:0 10px; display:inline-block; transition:transform .15s; }
+  .cloud a:hover { transform:scale(1.12); }
+  .cloud .theme { color:var(--theme); } .cloud .notion { color:var(--notion); }
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:22px; }
+  @media (max-width:900px){ .grid2 { grid-template-columns:1fr; } }
+  table { width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--border); border-radius:12px; overflow:hidden; }
+  th,td { padding:10px 14px; text-align:left; font-size:.9rem; border-bottom:1px solid var(--border); }
+  th { color:var(--muted); font-weight:600; }
+  .badge { padding:3px 10px; border-radius:99px; font-size:.75rem; white-space:nowrap; }
+  .b-attente { background:#3a3f4d; color:#aab2c5; }
+  .b-transcrit { background:#7a5c1e; color:#ffd97d; }
+  .b-analyse { background:#1e5c3a; color:#8be0ae; }
+  .quote { background:var(--panel); border:1px solid var(--border); border-left:4px solid var(--accent); border-radius:10px; padding:16px 18px; margin-bottom:12px; }
+  .quote p { font-style:italic; } .quote small { color:var(--muted); }
+  .insight { background:var(--panel); border:1px solid var(--border); border-left:4px solid var(--notion); border-radius:10px; padding:14px 18px; margin-bottom:12px; }
+  .bar { display:flex; align-items:center; gap:10px; margin-bottom:8px; }
+  .bar .label { width:280px; font-size:.85rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .bar .track { flex:1; background:var(--panel); border-radius:6px; height:18px; }
+  .bar .fill { background:linear-gradient(90deg,var(--theme),var(--accent2)); height:100%; border-radius:6px; }
+  .bar b { width:30px; text-align:right; font-size:.85rem; }
+  .empty { color:var(--muted); font-style:italic; padding:12px 0; }
+  footer { margin-top:40px; color:var(--muted); font-size:.8rem; text-align:center; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Tunisia Gl<span>o</span>bal Forum — AI Brain</h1>
+  <div class="ts">Généré le 16/07/2026 23:33 · se régénère à chaque lot de notes</div>
+</header>
+
+<section class="kpis" id="kpis"></section>
+
+<h2>☁️ De quoi avez-vous parlé — nuage de tags</h2>
+<div class="cloud" id="cloud"></div>
+
+<div class="grid2">
+  <div>
+    <h2>📊 Thèmes les plus discutés</h2>
+    <div id="themes"></div>
+  </div>
+  <div>
+    <h2>🗓 Sessions — état du pipeline</h2>
+    <table><thead><tr><th>Session</th><th>Horaire</th><th>Statut</th></tr></thead><tbody id="sessions"></tbody></table>
+  </div>
+</div>
+
+<div class="grid2">
+  <div>
+    <h2>💬 Citations mémorables</h2>
+    <div id="citations"></div>
+  </div>
+  <div>
+    <h2>💡 Insights</h2>
+    <div id="insights"></div>
+  </div>
+</div>
+
+<footer>TGF AI Brain by Bravvo — généré automatiquement depuis le vault Obsidian (source de vérité)</footer>
+
+<script>
+const DATA = {"genere_le": "16/07/2026 23:33", "kpis": {"sessions": 8, "speakers": 31, "transcripts": 1, "analyses": 1, "citations": 1, "notions": 1, "insights": 0, "syntheses": 0}, "cloud": [{"mot": "Diaspora tunisienne", "poids": 30, "type": "theme"}, {"mot": "IA & Souveraineté", "poids": 19, "type": "theme"}, {"mot": "Talents & Transformations", "poids": 17, "type": "theme"}, {"mot": "Recherche & Innovation", "poids": 16, "type": "theme"}, {"mot": "Infrastructures numériques & énergétiques", "poids": 16, "type": "theme"}, {"mot": "Écosystème Startups", "poids": 14, "type": "theme"}, {"mot": "Gouvernance & Éthique de l'IA", "poids": 13, "type": "theme"}, {"mot": "Souveraineté des données", "poids": 3, "type": "notion"}], "themes": [{"nom": "Diaspora tunisienne", "mentions": 30}, {"nom": "IA & Souveraineté", "mentions": 19}, {"nom": "Talents & Transformations", "mentions": 17}, {"nom": "Recherche & Innovation", "mentions": 16}, {"nom": "Infrastructures numériques & énergétiques", "mentions": 16}, {"nom": "Écosystème Startups", "mentions": 14}, {"nom": "Gouvernance & Éthique de l'IA", "mentions": 13}], "sessions": [{"nom": "Cérémonie d'ouverture TGF 2026", "horaire": "08h30–09h15", "lieu": "Salle Carthage", "statut": "en attente"}, {"nom": "Plénière Stratégique - IA, opportunités et gouvernance", "horaire": "09h15–10h45", "lieu": "Salle Carthage", "statut": "analysé"}, {"nom": "Talk Inspire - Scaling our startups ecosystem", "horaire": "11h–14h", "lieu": "Inspire Arena", "statut": "en attente"}, {"nom": "Talk Innovate - Connecting Research, Entrepreneurship and Industry", "horaire": "11h–14h", "lieu": "Innovate Arena", "statut": "en attente"}, {"nom": "Plénière - IA, souverainetés, données et infrastructures", "horaire": "11h00–12h15", "lieu": "Salle Carthage", "statut": "en attente"}, {"nom": "Talk Impact - Fostering Diaspora impact", "horaire": "11h–14h", "lieu": "Impact Arena", "statut": "en attente"}, {"nom": "Plénière - IA, talents et transformations", "horaire": "12h30–13h45", "lieu": "Salle Carthage", "statut": "en attente"}, {"nom": "Cérémonie de clôture TGF 2026", "horaire": "14h–15h", "lieu": "Espace Oya", "statut": "en attente"}], "citations": [{"texte": "La question n'est pas de savoir si la Tunisie adoptera l'IA, mais si elle la subira ou la façonnera.", "speaker": "Nozha Boujemaa"}], "insights": []};
+
+const K = [["sessions","Sessions"],["speakers","Speakers"],["transcripts","Transcripts"],["analyses","Analysés"],["citations","Citations"],["notions","Notions"],["insights","Insights"],["syntheses","Synthèses"]];
+document.getElementById("kpis").innerHTML = K.map(([k,l]) =>
+  `<div class="kpi"><b>${DATA.kpis[k]}</b><small>${l}</small></div>`).join("");
+
+const maxW = Math.max(...DATA.cloud.map(c=>c.poids), 1);
+document.getElementById("cloud").innerHTML = DATA.cloud.length
+  ? DATA.cloud.map(c => {
+      const size = 0.85 + 1.6 * (c.poids / maxW);
+      return `<a class="${c.type}" style="font-size:${size.toFixed(2)}rem" title="${c.poids} mention(s)">${c.mot}</a>`;
+    }).join(" ")
+  : '<div class="empty">En attente des premières notes…</div>';
+
+const maxT = Math.max(...DATA.themes.map(t=>t.mentions), 1);
+document.getElementById("themes").innerHTML = DATA.themes.map(t =>
+  `<div class="bar"><div class="label">${t.nom}</div><div class="track"><div class="fill" style="width:${Math.max(100*t.mentions/maxT,3)}%"></div></div><b>${t.mentions}</b></div>`).join("");
+
+const badge = s => s==="analysé" ? "b-analyse" : (s==="transcrit" ? "b-transcrit" : "b-attente");
+document.getElementById("sessions").innerHTML = DATA.sessions.map(s =>
+  `<tr><td>${s.nom}</td><td>${s.horaire||"—"}</td><td><span class="badge ${badge(s.statut)}">${s.statut}</span></td></tr>`).join("");
+
+document.getElementById("citations").innerHTML = DATA.citations.length
+  ? DATA.citations.map(c => `<div class="quote"><p>« ${c.texte} »</p><small>— ${c.speaker||"?"}</small></div>`).join("")
+  : '<div class="empty">Les citations apparaîtront au fil des sessions…</div>';
+
+document.getElementById("insights").innerHTML = DATA.insights.length
+  ? DATA.insights.map(i => `<div class="insight"><b>${i.nom.replace(/^Insight - /,"")}</b><p>${i.texte}</p></div>`).join("")
+  : '<div class="empty">Les insights apparaîtront après les premières synthèses…</div>';
+</script>
+</body>
+</html>

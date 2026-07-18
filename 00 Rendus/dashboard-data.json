@@ -1,0 +1,151 @@
+{
+  "edition": "Édition 2026",
+  "generatedAt": "17 juillet 2026 · 08:46",
+  "vault": "TGF AI Brain by Bravvo",
+  "kpis": [
+    {
+      "label": "Sessions captées",
+      "value": 1,
+      "unit": "",
+      "note": "sur 8 programmées"
+    },
+    {
+      "label": "Intervenants suivis",
+      "value": 31,
+      "unit": "",
+      "note": "profils dans le vault"
+    },
+    {
+      "label": "Transcripts reçus",
+      "value": 1,
+      "unit": "",
+      "note": "dans le pipeline"
+    },
+    {
+      "label": "Transcripts analysés",
+      "value": 1,
+      "unit": "",
+      "note": "traités par le brain"
+    },
+    {
+      "label": "Citations retenues",
+      "value": 1,
+      "unit": "",
+      "note": "verbatims marquants"
+    },
+    {
+      "label": "Notions extraites",
+      "value": 1,
+      "unit": "",
+      "note": "concepts structurés"
+    },
+    {
+      "label": "Insights",
+      "value": 0,
+      "unit": "",
+      "note": "enseignements transverses"
+    },
+    {
+      "label": "Synthèses",
+      "value": 0,
+      "unit": "",
+      "note": "par thème, validées"
+    }
+  ],
+  "themes": [
+    {
+      "name": "Diaspora tunisienne",
+      "mentions": 30
+    },
+    {
+      "name": "IA & Souveraineté",
+      "mentions": 19
+    },
+    {
+      "name": "Talents & Transformations",
+      "mentions": 17
+    },
+    {
+      "name": "Recherche & Innovation",
+      "mentions": 16
+    },
+    {
+      "name": "Infrastructures numériques & énergétiques",
+      "mentions": 16
+    },
+    {
+      "name": "Écosystème Startups",
+      "mentions": 14
+    },
+    {
+      "name": "Gouvernance & Éthique de l'IA",
+      "mentions": 13
+    }
+  ],
+  "insights": [],
+  "sessions": [
+    {
+      "time": "08:30",
+      "title": "Cérémonie d'ouverture TGF 2026",
+      "room": "Salle Carthage",
+      "speakers": "",
+      "status": "upcoming"
+    },
+    {
+      "time": "09:15",
+      "title": "Plénière Stratégique - IA, opportunités et gouvernance",
+      "room": "Salle Carthage",
+      "speakers": "",
+      "status": "done"
+    },
+    {
+      "time": "11",
+      "title": "Talk Inspire - Scaling our startups ecosystem",
+      "room": "Inspire Arena",
+      "speakers": "",
+      "status": "upcoming"
+    },
+    {
+      "time": "11",
+      "title": "Talk Innovate - Connecting Research, Entrepreneurship and Industry",
+      "room": "Innovate Arena",
+      "speakers": "",
+      "status": "upcoming"
+    },
+    {
+      "time": "11:00",
+      "title": "Plénière - IA, souverainetés, données et infrastructures",
+      "room": "Salle Carthage",
+      "speakers": "",
+      "status": "upcoming"
+    },
+    {
+      "time": "11",
+      "title": "Talk Impact - Fostering Diaspora impact",
+      "room": "Impact Arena",
+      "speakers": "",
+      "status": "upcoming"
+    },
+    {
+      "time": "12:30",
+      "title": "Plénière - IA, talents et transformations",
+      "room": "Salle Carthage",
+      "speakers": "",
+      "status": "upcoming"
+    },
+    {
+      "time": "14",
+      "title": "Cérémonie de clôture TGF 2026",
+      "room": "Espace Oya",
+      "speakers": "",
+      "status": "upcoming"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "La question n'est pas de savoir si la Tunisie adoptera l'IA, mais si elle la subira ou la façonnera.",
+      "author": "Nozha Boujemaa",
+      "role": "Plénière Stratégique - IA, opportunités et gouvernance"
+    }
+  ]
+}
