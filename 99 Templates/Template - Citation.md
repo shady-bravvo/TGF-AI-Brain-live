@@ -3,12 +3,13 @@ type: citation
 tags: [citation, ai-brain, TGF2026]
 speaker: "[[]]"
 session: "[[]]"
+timecode: ""
 ---
 # « {{title}} »
 
 > « <citation exacte complète> »
 
-— [[Speaker]], [[Session]] ([[Transcript - ...]])
+— [[Speaker]], [[Session]] ([[Transcript - ...]]) · ⏱ <timecode>
 
 **Pourquoi c'est important :** <1 ligne>
 
