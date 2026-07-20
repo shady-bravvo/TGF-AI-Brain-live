@@ -10,21 +10,33 @@ organisateurs: ["[[ATUGE]]", "[[WATT]]"]
 > **Bâtir l'avenir à l'ère de l'IA** — Tunis, 21 juillet 2026, [[Radisson Blu Tunis]]
 > Organisé par [[ATUGE]] & [[WATT]] dans le cadre du [[Diaspora Month 2026]].
 
-Temps fort majeur du Diaspora Month : **+2300 participants**, **150 entreprises et startups exposantes**, **+70 speakers**.
+Temps fort majeur du Diaspora Month : **+2 500 participants**, **150 entreprises et startups exposantes**, **+80 speakers nationaux et internationaux** *(chiffres officiels, plateforme Business Room)*.
 
-## Programme du 21 juillet
+## Programme officiel du 21 juillet
+Source : [plateforme officielle Business Room](https://tgf-atuge-2026.businessroom.io/), consultée le 19/07/2026. Remplace le pré-programme presse du 16/07.
+
 | Horaire | Session | Lieu |
 |---|---|---|
-| 08h30–09h15 | [[Cérémonie d'ouverture TGF 2026]] | [[Salle Carthage]] |
-| 09h15–10h45 | [[Plénière Stratégique - IA, opportunités et gouvernance]] | [[Salle Carthage]] |
-| 09h15–10h45 | Ouverture expo + Pitchs finalistes [[AI Hackathon Awards]] | [[Espace Oya]] |
-| 11h00–12h15 | [[Plénière - IA, souverainetés, données et infrastructures]] | [[Salle Carthage]] |
-| 12h30–13h45 | [[Plénière - IA, talents et transformations]] | [[Salle Carthage]] |
-| 11h–14h | [[Talk Inspire - Scaling our startups ecosystem]] + pitchs [[AI Startups Awards]] & [[AI Business Awards]] | [[Inspire Arena]] |
-| 11h–14h | [[Talk Innovate - Connecting Research, Entrepreneurship and Industry]] + pitchs [[AI Research Awards]] | [[Innovate Arena]] |
-| 11h–14h | [[Talk Impact - Fostering Diaspora impact]] + Come-Backs & Give-Backs stories | [[Impact Arena]] |
-| 14h–15h | [[Cérémonie de clôture TGF 2026]] | [[Espace Oya]] |
-| 15h | Cocktail de clôture | [[Espace Oya]] |
+| 08h30 (45') | [[Cérémonie d'ouverture TGF 2026]] | [[Salle Carthage]] |
+| 09h00 (105') | Pitchs des 9 équipes finalistes du [[AI Hackathon 2026]] | [[Espace Oya]] |
+| 09h15 (15') | Keynote [[Badreddine Ouali]] | [[Salle Carthage]] |
+| 09h30 (75') | [[Plénière Stratégique - IA, opportunités et gouvernance\|Plénière « Bâtir aujourd'hui les fondations d'une IA créatrice de valeur »]] | [[Salle Carthage]] |
+| 09h30 (120') | Talks Awards Pitches — [[AI Business Awards]] & [[AI Startups Awards]] (12 pitchs) | [[Salle Leptis]] |
+| 10h00 (90') | Talks Impact Stage — Startups Talks | [[Salle Limes]] |
+| 10h45 (15') | Pause café | — |
+| 11h00 (75') | [[Plénière - IA, talents et transformations\|Plénière « Éducation, compétences et transformation des métiers »]] | [[Salle Carthage]] |
+| 11h00 (45') | Panel « Valorisation de la recherche : bâtir des champions dans l'IA, la santé et la Biotech » — mod. [[Mouna Marrakchi]] | [[Espace Dhiyefa]] |
+| 11h00 (120') | AI startup founders & leaders Talks | [[Espace Oya]] |
+| 11h30 (117') | Talks Awards Pitches — [[AI Research Awards]] & Deeptechs (12 pitchs) | [[Salle Leptis]] |
+| 12h00 (45') | Panel « Open Innovation & IA : rapprocher startups et PME » — mod. [[Amine Abdelkhalek]] | [[Espace Dhiyefa]] |
+| 12h00 (45') | Talks Impact Stage — Partner Talks | [[Salle Limes]] |
+| 13h00 (45') | Panel « Écosystème Startups : scaler et capter la valeur de l'IA » — mod. Samar Louati | [[Espace Oya]] |
+| 13h00 (45') | Panel « Engager la Diaspora : investissement, entrepreneuriat, échanges » — mod. Adel Beznine | [[Espace Dhiyefa]] |
+| 13h00 (45') | Talks Impact Stage — Open Talks | [[Salle Limes]] |
+| 13h45 (15') | Tatooine Project Update — Yahya Bouhiel (GoMyCode) & [[Karim Beguir]] ([[InstaDeep]]) | [[Espace Oya]] |
+| 14h00 (15') | DAR : accompagner les envies de retour à horizon 1-2 ans | [[Espace Oya]] |
+| 14h30–15h30 | [[Cérémonie de clôture TGF 2026]] — synthèse [[Livre Blanc IA Tunisie]], keynotes, remise des prix | [[Espace Oya]] |
+| 15h30 | Mot de la fin & cocktail de clôture | [[Espace Oya]] |
 
 ## 3 angles d'approche
 1. **Comprendre** la transformation globale liée à l'IA → [[Gouvernance & Éthique de l'IA]]
@@ -36,20 +48,16 @@ Temps fort majeur du Diaspora Month : **+2300 participants**, **150 entreprises 
 - [[AI Hackathon Awards]] · [[AI Research Awards]] · [[AI Startups Awards]] · [[AI Business Awards]]
 - Networking : matchmaking intelligent, RDV B2B, CVthèque, espaces VIP
 
-## Partenaires confirmés 2026
-Sourcé par la recherche web du 16/07/2026 (annonces officielles ATUGE sur Facebook + communiqués de presse).
+## Sponsors officiels 2026 (par niveau)
+Source : [plateforme officielle Business Room](https://tgf-atuge-2026.businessroom.io/), consultée le 19/07/2026 — liste complète, remplace le recensement presse/Facebook du 16/07.
 
-| Partenaire | Niveau | Source |
-|---|---|---|
-| [[Rose Blanche Group]] | Platinum | [Facebook ATUGE](https://www.facebook.com/atuge.org/posts/1498224482348282/) |
-| [[Code Once]] | Platinum | [Facebook ATUGE](https://www.facebook.com/atuge.org/photos/1499280435576020/) |
-| [[GIZ]] Tunisie (programme EDMEJ) | Premium / appui institutionnel | [Facebook ATUGE](https://www.facebook.com/atuge.org/photos/1475498577954206/) · [Managers.tn](https://managers.tn/2026/07/15/latuge-place-lurgence-et-les-opportunites-de-lia-au-coeur-du-tunisia-global-forum-2026/) |
-| [[Caisse des Dépôts et Consignations]] (CDC) | Appui institutionnel | [Managers.tn](https://managers.tn/2026/07/15/latuge-place-lurgence-et-les-opportunites-de-lia-au-coeur-du-tunisia-global-forum-2026/) |
-| [[SFBT]] | Silver | [Facebook ATUGE](https://www.facebook.com/atuge.org/posts/1504609995043064/) |
-| [[Vermeg]] | Silver | [Facebook ATUGE](https://www.facebook.com/atuge.org/posts/1480180987485965/) |
-| [[CJD]] Tunis Horizon | Co-organisateur du Hackathon IA « Automatiser ou disparaître » (17–19 juillet) | [Managers.tn](https://managers.tn/2026/07/15/latuge-place-lurgence-et-les-opportunites-de-lia-au-coeur-du-tunisia-global-forum-2026/) · [African Manager](https://africanmanager.com/tunisia-global-forum-participation-de-plus-de-2300-personnes-et-150-entreprises-et-startups-le-21-juillet-2026/) |
+**Premium** : Startups & PME Innovantes (pavillon) · [[Banque Mondiale]] · [[Caisse des Dépôts et Consignations]] · [[Smart Capital]] · [[GIZ]]
 
-Non trouvé en ligne (au 16/07/2026) : liste complète des exposants, pavillons, partenaires médias et éventuels partenaires gold/bronze — pas encore publiée par l'ATUGE.
+**Platinum** : [[Rose Blanche Group]] · [[Agence Française de Développement]] · [[Expertise France]] · [[WATANI]] · [[Groupe Studi]] · [[Swisscontact]] · [[Tunis International Bank]] · [[Code Once]]
+
+**Gold / Silver** : [[BIAT]] · [[Banque de Tunisie]] · [[Attijari Bank]] · [[Thunders.ai]] · [[Bank ABC]] · [[Minotore]] · [[L'Immobilière de l'Avenue - Groupe STB]] · [[Vermeg]] · [[UBCI]] · [[La Badira]] · [[SFBT]] · [[Coficab]] · [[Luxor Group]]
+
+Autres : [[CJD]] Tunis Horizon — co-organisateur du Hackathon IA « Automatiser ou disparaître » (17–19 juillet).
 
 ## Side events
 - [[AI Hackathon 2026]] (17–19 juillet, Tunis)

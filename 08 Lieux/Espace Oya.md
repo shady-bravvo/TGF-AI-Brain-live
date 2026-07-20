@@ -1,6 +1,7 @@
 ---
 type: lieu
 tags: [lieu, TGF2026]
+aliases: ["Salle Oya"]
 ---
 # Espace Oya
 

@@ -14,6 +14,8 @@ Enjeux de souveraineté et de coopération internationale. Maîtrise des donnée
 - [[IA & Souveraineté]]
 - [[Infrastructures numériques & énergétiques]]
 
+> ⚠️ **Programme officiel (Business Room, 19/07/2026)** : cette plénière n'apparaît plus en tant que telle dans l'agenda du 21 juillet. Ses thèmes ont été absorbés par la [[Plénière Stratégique - IA, opportunités et gouvernance|plénière « Bâtir aujourd'hui les fondations d'une IA créatrice de valeur »]] (modérée par [[Nozha Boujemaa]], 09h30).
+
 ## Speakers confirmés
 - [[Nozha Boujemaa]] — **modératrice** de cette plénière (« la première plénière, modérée par l'experte internationale Nozha Boujemaa, interrogera la maîtrise des fondations techniques et morales de l'IA » — La Presse, 15/07/2026).
 

@@ -6,7 +6,15 @@ lieu: "[[Salle Carthage]]"
 ---
 # Cérémonie d'ouverture TGF 2026
 
-08h30–09h15, [[Salle Carthage]] · [[TGF 2026 - Tunisia Global Forum]]
+08h30–09h15 (45'), [[Salle Carthage]] · [[TGF 2026 - Tunisia Global Forum]]
+**« Intelligence Collective pour bâtir l'avenir de l'IA »** *(programme officiel Business Room, 19/07/2026)*
+
+## Maîtres de cérémonie & ouverture officielle
+- [[Mouna Allani Ben Halima]] — Ancienne Présidente de l'ATUGE Tunisie (maîtresse de cérémonie)
+- [[Tarak Bouacida]] — Commissaire Général du TGF (maître de cérémonie)
+- [[Amine Aloulou]] — Président de l'ATUGE Tunisie
+
+À 09h15, keynote de [[Badreddine Ouali]] dans la foulée (15', [[Salle Carthage]]).
 
 ## Intervenants officiels annoncés
 - [[Mohamed Ali Nafti]] — Ministre des Affaires Étrangères

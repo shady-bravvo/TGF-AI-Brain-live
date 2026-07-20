@@ -1,17 +1,26 @@
 ---
 type: session
 tags: [session, pleniere, TGF2026]
-horaire: 09h15–10h45
+aliases: ["Bâtir aujourd'hui les fondations d'une IA créatrice de valeur"]
+horaire: 09h30–10h45
 lieu: "[[Salle Carthage]]"
 ---
-# Conférence Plénière Stratégique — IA, opportunités, enjeux, gouvernance éthique et urgences d'action
+# Conférence Plénière — « Bâtir aujourd'hui les fondations d'une IA créatrice de valeur »
 
-09h15–10h45, [[Salle Carthage]] · [[TGF 2026 - Tunisia Global Forum]]
-
-Keynotes de business leaders et d'experts de premier plan, suivies d'un **fireside stratégique** et d'un débat avec des speakers internationaux et nationaux.
+09h30–10h45 (75'), [[Salle Carthage]] · [[TGF 2026 - Tunisia Global Forum]]
+*Titre et lineup officiels (Business Room, 19/07/2026) — anciennement « Plénière Stratégique : IA, opportunités, enjeux, gouvernance éthique et urgences d'action », initialement annoncée à 09h15.*
 
 ## Thèmes
 - [[Gouvernance & Éthique de l'IA]]
 - [[IA & Souveraineté]]
 
-*(Speakers en cours de finalisation — voir la liste des [[TGF 2026 - Tunisia Global Forum|speakers du TGF]])*
+## Modération
+- [[Nozha Boujemaa]] — Senior AI Advisor, Co-chair GPAI/OECD AI Experts Group
+
+## Panélistes officiels
+- [[Jean-Paul Haton]] — Expert IA, co-organisateur du grand séminaire IA de 1986
+- Aslan Berjeb — Président de la [[CONECT]]
+- [[Karim Jouini]] — CEO [[Thunders.ai]]
+- [[Karim Beguir]] — Co-Founder & CEO, [[InstaDeep]]
+- [[Khaled Maalej]] — CEO [[Vsora]]
+- [[Amir Ben Gacem]] — CEO [[Solecrypt]]
