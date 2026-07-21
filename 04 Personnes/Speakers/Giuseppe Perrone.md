@@ -22,3 +22,11 @@ Diplomate italien, Giuseppe Perrone est entré dans la carrière en 1990 après 
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[IA & Souveraineté]]
 - [[Infrastructures numériques & énergétiques]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Cérémonie d'ouverture]]
+**Notions :** [[Souveraineté (coopérative)]]
+
+<!-- TGF-AUTO-LINKS:END -->

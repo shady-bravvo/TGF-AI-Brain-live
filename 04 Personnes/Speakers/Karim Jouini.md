@@ -28,3 +28,11 @@ En janvier 2025, il co-fonde avec Jihed Othmani Thunders.ai (initialement Thunde
 - [[Écosystème Startups]]
 - [[Talk Inspire - Scaling our startups ecosystem]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Fondations IA]]
+**Citations :** [[Citation - Les bas salaires bloquent la digitalisation]]
+
+<!-- TGF-AUTO-LINKS:END -->

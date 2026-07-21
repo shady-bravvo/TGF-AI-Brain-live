@@ -25,3 +25,11 @@ lieu: "[[Salle Carthage]]"
 > Le programme final ne mentionne plus à l'ouverture : [[Sofiène Hemissi]] (Ministre des Technologies de la Communication), [[Mustapha Ferjani]] (keynote déplacée à la [[Cérémonie de clôture TGF 2026|clôture]], 14h45) ni [[Mehdi Houas]] (keynote de clôture, 14h30).
 
 Sources : programme officiel final (PDF/Canva, 21/07/2026) · [La Presse, 15/07/2026](https://www.lapresse.tn/2026/07/15/tunisia-global-forum-2026-plus-de-2-300-decideurs-et-experts-attendus-a-tunis-pour-debattre-de-lavenir-de-lia/) · [Managers, 15/07/2026](https://managers.tn/2026/07/15/latuge-place-lurgence-et-les-opportunites-de-lia-au-coeur-du-tunisia-global-forum-2026/)
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Cérémonie d'ouverture]] · [[Transcript - Cérémonie d'ouverture - Keynote Badreddine Ouali]]
+**Citations :** [[Citation - Circulation permanente des talents]] · [[Citation - Définition du Bâtisseur]] · [[Citation - L'IA pour rattraper la fracture régionale]] · [[Citation - La souveraineté se construit]] · [[Citation - Ne pas subir l'IA]] · [[Citation - Préparer l'avenir sans attendre]] · [[Citation - Servir le café ou s'asseoir à la table de l'IA]]
+
+<!-- TGF-AUTO-LINKS:END -->

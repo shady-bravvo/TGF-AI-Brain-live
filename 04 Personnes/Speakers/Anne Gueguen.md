@@ -23,3 +23,10 @@ Née le 12 juillet 1971, Anne Guéguen est diplomate française, diplômée de l
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Diaspora tunisienne]]
 - [[IA & Souveraineté]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Cérémonie d'ouverture]]
+
+<!-- TGF-AUTO-LINKS:END -->

@@ -22,3 +22,10 @@ lieu: "[[Espace Dhiyefa]]"
 
 ## Thème
 [[Recherche & Innovation]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+
+<!-- TGF-AUTO-LINKS:END -->

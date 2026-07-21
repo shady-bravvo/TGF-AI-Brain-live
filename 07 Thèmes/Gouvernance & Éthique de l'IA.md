@@ -9,3 +9,10 @@ Vision ouverte, collaborative, souveraine et éthique de l'IA. Gouvernance natio
 Sessions : [[Plénière Stratégique - IA, opportunités et gouvernance]] · [[Livre Blanc IA Tunisie]]
 
 Événement : [[TGF 2026 - Tunisia Global Forum]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Fondations IA]]
+
+<!-- TGF-AUTO-LINKS:END -->

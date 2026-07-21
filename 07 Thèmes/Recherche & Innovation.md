@@ -9,3 +9,12 @@ Connecter recherche, entrepreneuriat et industrie. Valorisation et transfert tec
 Sessions : [[Talk Innovate - Connecting Research, Entrepreneurship and Industry]] · [[AI Research Awards]]
 
 Événement : [[TGF 2026 - Tunisia Global Forum]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+**Citations :** [[Citation - L'impasse de l'IA générative]] · [[Citation - Préparer l'avenir sans attendre]] · [[Citation - Stratégie IA et souveraineté de l'innovation]]
+**Notions :** [[Cycle de la recherche et innovation]] · [[IA agentique]] · [[Modèles du monde (Common sense)]] · [[Vallée de la mort]]
+
+<!-- TGF-AUTO-LINKS:END -->

@@ -23,3 +23,12 @@ Né en 1943 à Oujda (Maroc), Jean-Paul Haton est l'un des pionniers français d
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Recherche & Innovation]]
 - [[Talents & Transformations]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Fondations IA]]
+**Citations :** [[Citation - L'impasse de l'IA générative]]
+**Notions :** [[IA agentique]] · [[Modèles du monde (Common sense)]]
+
+<!-- TGF-AUTO-LINKS:END -->

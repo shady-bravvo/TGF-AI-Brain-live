@@ -12,3 +12,10 @@ organisation: "Institut Pasteur de Tunis"
 ## Connexions
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Recherche & Innovation]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+
+<!-- TGF-AUTO-LINKS:END -->

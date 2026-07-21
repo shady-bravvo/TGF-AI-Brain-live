@@ -22,3 +22,10 @@ Née en 1962 à Osnabrück (Allemagne), Elisabeth Wolbers est juriste de formati
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Talents & Transformations]]
 - [[Infrastructures numériques & énergétiques]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Cérémonie d'ouverture]]
+
+<!-- TGF-AUTO-LINKS:END -->

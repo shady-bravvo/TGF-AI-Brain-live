@@ -23,3 +23,11 @@ Nejia Gharbi est une haute dirigeante du secteur public financier tunisien. Elle
 - [[Caisse des Dépôts et Consignations]]
 - [[Écosystème Startups]]
 - [[Infrastructures numériques & énergétiques]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Cérémonie d'ouverture]]
+**Citations :** [[Citation - Circulation permanente des talents]]
+
+<!-- TGF-AUTO-LINKS:END -->

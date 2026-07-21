@@ -27,3 +27,11 @@ Docteure en management stratégique de l'Université Paris-Dauphine, Houda Ghozz
 - [[Université Paris-Dauphine]]
 - [[Écosystème Startups]]
 - [[Recherche & Innovation]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+**Citations :** [[Citation - L'entrepreneur effacé des contrats]]
+
+<!-- TGF-AUTO-LINKS:END -->

@@ -12,3 +12,12 @@ organisation: "MESRS"
 ## Connexions
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Recherche & Innovation]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+**Citations :** [[Citation - Stratégie IA et souveraineté de l'innovation]]
+**Notions :** [[Cycle de la recherche et innovation]] · [[Vallée de la mort]]
+
+<!-- TGF-AUTO-LINKS:END -->

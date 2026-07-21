@@ -9,3 +9,11 @@ Datacenters, infrastructures numériques, potentiel solaire décarbonné tunisie
 Sessions : [[Plénière - IA, souverainetés, données et infrastructures]]
 
 Événement : [[TGF 2026 - Tunisia Global Forum]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Citations :** [[Citation - Préparer l'avenir sans attendre]] · [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
+**Notions :** [[Liquid cooling]] · [[Économie du Token]]
+
+<!-- TGF-AUTO-LINKS:END -->

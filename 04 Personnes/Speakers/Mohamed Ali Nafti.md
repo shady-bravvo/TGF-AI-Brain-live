@@ -23,3 +23,10 @@ Né le 19 mai 1959 à Bizerte, Mohamed Ali Nafti est un diplomate de carrière. 
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Diaspora tunisienne]]
 - [[IA & Souveraineté]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Cérémonie d'ouverture]]
+
+<!-- TGF-AUTO-LINKS:END -->

@@ -13,3 +13,12 @@ organisation: "Inception"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Recherche & Innovation]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+**Citations :** [[Citation - De l'intelligence artificielle à l'intelligence augmentée]]
+**Notions :** [[Intelligence augmentée]]
+
+<!-- TGF-AUTO-LINKS:END -->

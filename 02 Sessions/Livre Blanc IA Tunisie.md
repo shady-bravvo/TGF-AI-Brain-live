@@ -68,3 +68,10 @@ Partenaires : [[ATUGE]] · [[WATT]] (World Alliance of Tunisian Talents) · [[Ba
 
 ## Sources principales
 GII 2025 (WIPO) · BCG 2025 « Develop the Developers » · NRI 2025 (Portulans Institute) · GIRAI 2026 · Microsoft/Tech In Africa 2025 · Startup Act (startup.gov.tn) · StartupGenome 2025 · StartupBlink · AI Talent Readiness Index Africa 2025 (Qhala/Qubit Hub) · Global AI Index (The Observer) · GAIRI 2025 (Oxford Insights) · Tony Blair Institute, State of Compute Access 2024 · Ministère de l'Éducation de Chine (directives IA, mai 2025) · Mozilla Common Voice · CNTE · Mix électrique Tunisie 2025 (ilboursa)
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Cérémonie d'ouverture]] · [[Transcript - Cérémonie d'ouverture - Keynote Badreddine Ouali]] · [[Transcript - Plénière Fondations IA]] · [[Transcript - Talk Innovate]]
+
+<!-- TGF-AUTO-LINKS:END -->

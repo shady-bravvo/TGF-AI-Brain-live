@@ -26,3 +26,10 @@ Docteure et HDR en informatique, Nozha Boujemaa a mené une carrière de recherc
 - [[Gouvernance & Éthique de l'IA]]
 - [[Recherche & Innovation]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Fondations IA]]
+
+<!-- TGF-AUTO-LINKS:END -->

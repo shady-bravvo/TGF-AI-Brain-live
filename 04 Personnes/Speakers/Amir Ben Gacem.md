@@ -27,3 +27,11 @@ Avec Solecrypt, il combine cette expérience financière avec une ambition d'inf
 - [[Infrastructures numériques & énergétiques]]
 - [[IA & Souveraineté]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Fondations IA]]
+**Notions :** [[Liquid cooling]] · [[Économie du Token]]
+
+<!-- TGF-AUTO-LINKS:END -->

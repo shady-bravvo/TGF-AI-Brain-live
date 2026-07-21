@@ -22,3 +22,11 @@ Les pitchs [[AI Research Awards]] & Deeptech se tiennent en [[Salle Leptis]], 10
 
 ## Thème
 [[Recherche & Innovation]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+**Citations :** [[Citation - De l'intelligence artificielle à l'intelligence augmentée]] · [[Citation - L'entrepreneur effacé des contrats]] · [[Citation - Stratégie IA et souveraineté de l'innovation]]
+
+<!-- TGF-AUTO-LINKS:END -->

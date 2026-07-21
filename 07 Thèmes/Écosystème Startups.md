@@ -9,3 +9,10 @@ Scaler l'écosystème startups tunisien pour l'ère de l'IA : startups, PME, inc
 Sessions : [[Talk Inspire - Scaling our startups ecosystem]] · [[AI Startups Awards]]
 
 Événement : [[TGF 2026 - Tunisia Global Forum]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Citations :** [[Citation - Circulation permanente des talents]]
+
+<!-- TGF-AUTO-LINKS:END -->

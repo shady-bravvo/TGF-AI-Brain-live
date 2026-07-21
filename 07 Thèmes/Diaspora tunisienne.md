@@ -11,3 +11,10 @@ Sessions : [[Talk Impact - Fostering Diaspora impact]] · [[Diaspora Regional Ne
 Organisations : [[WATT]] · [[ATUGE]]
 
 Événement : [[TGF 2026 - Tunisia Global Forum]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Citations :** [[Citation - Circulation permanente des talents]]
+
+<!-- TGF-AUTO-LINKS:END -->

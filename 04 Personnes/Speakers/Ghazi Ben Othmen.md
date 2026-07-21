@@ -13,3 +13,10 @@ organisation: "Medin Fund"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Medin Fund]]
 - [[Recherche & Innovation]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+
+<!-- TGF-AUTO-LINKS:END -->
