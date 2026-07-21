@@ -13,3 +13,12 @@ organisation: "The Education Outcomes Fund"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Talents & Transformations]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Talents]]
+**Citations :** [[Citation - Perdre la courbe d'apprentissage]] · [[Citation - Quoi enseigner sur l'IA]]
+**Notions :** [[Courbe d'apprentissage (Learning curve)]] · [[Entropie cognitive (Cognitive entropy)]]
+
+<!-- TGF-AUTO-LINKS:END -->

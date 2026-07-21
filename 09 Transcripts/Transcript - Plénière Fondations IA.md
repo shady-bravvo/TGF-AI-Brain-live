@@ -211,5 +211,5 @@ Ce panel met en scène un débat idéologique fort sur la nature de la recherche
 - [[Plénière Stratégique - IA, opportunités et gouvernance]]
 - [[Gouvernance & Éthique de l'IA]]
 - [[IA & Souveraineté]]
-- [[Tunisia Global Forum 2026]]
+- [[TGF 2026 - Tunisia Global Forum]]
 - [[Livre Blanc IA Tunisie]]

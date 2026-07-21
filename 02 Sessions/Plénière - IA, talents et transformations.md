@@ -24,3 +24,11 @@ Former et attirer les meilleurs talents de l'IA. Accompagner les transformations
 - [[Karim Hajjaji]] — Global COO, Banco Santander UK
 - [[Amel Karboul]] — CEO, The Education Outcomes Fund (EOF)
 - [[Memia Fendri]] — Manager global value chains, World Economic Forum
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Talents]]
+**Citations :** [[Citation - Contrôle et fondamentaux]] · [[Citation - Perdre la courbe d'apprentissage]] · [[Citation - Plus vite, pas mieux]] · [[Citation - Quoi enseigner sur l'IA]]
+
+<!-- TGF-AUTO-LINKS:END -->

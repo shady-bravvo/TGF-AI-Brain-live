@@ -13,8 +13,8 @@ Sessions : [[Plénière - IA, talents et transformations]] · [[AI Business Awar
 <!-- TGF-AUTO-LINKS:START -->
 ## 🔗 Contenu du forum
 
-**Transcripts :** [[Transcript - Talk Innovate]]
+**Transcripts :** [[Transcript - Plénière Talents]] · [[Transcript - Talk Innovate]]
 **Citations :** [[Citation - De l'intelligence artificielle à l'intelligence augmentée]] · [[Citation - Définition du Bâtisseur]] · [[Citation - L'IA pour rattraper la fracture régionale]]
-**Notions :** [[IA comme accélérateur d'inclusion]] · [[Intelligence augmentée]]
+**Notions :** [[Capacité d'adaptation]] · [[Courbe d'apprentissage (Learning curve)]] · [[Entropie cognitive (Cognitive entropy)]] · [[IA comme accélérateur d'inclusion]] · [[Intelligence augmentée]]
 
 <!-- TGF-AUTO-LINKS:END -->

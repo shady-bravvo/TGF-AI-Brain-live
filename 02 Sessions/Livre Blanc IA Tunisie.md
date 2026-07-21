@@ -72,6 +72,6 @@ GII 2025 (WIPO) · BCG 2025 « Develop the Developers » · NRI 2025 (Portulans 
 <!-- TGF-AUTO-LINKS:START -->
 ## 🔗 Contenu du forum
 
-**Transcripts :** [[Transcript - Cérémonie d'ouverture]] · [[Transcript - Cérémonie d'ouverture - Keynote Badreddine Ouali]] · [[Transcript - Plénière Fondations IA]] · [[Transcript - Talk Innovate]]
+**Transcripts :** [[Transcript - Cérémonie d'ouverture]] · [[Transcript - Cérémonie d'ouverture - Keynote Badreddine Ouali]] · [[Transcript - Plénière Fondations IA]] · [[Transcript - Plénière Talents]] · [[Transcript - Talk Innovate]]
 
 <!-- TGF-AUTO-LINKS:END -->

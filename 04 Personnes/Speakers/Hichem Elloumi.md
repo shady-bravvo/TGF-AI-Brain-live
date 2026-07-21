@@ -13,3 +13,10 @@ organisation: "Coficab"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Coficab]]
 - [[Talents & Transformations]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Talents]]
+
+<!-- TGF-AUTO-LINKS:END -->

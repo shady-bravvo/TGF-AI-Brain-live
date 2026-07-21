@@ -14,3 +14,12 @@ organisation: "Banco Santander UK"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Talents & Transformations]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Talents]]
+**Citations :** [[Citation - Plus vite, pas mieux]]
+**Notions :** [[Capacité d'adaptation]]
+
+<!-- TGF-AUTO-LINKS:END -->

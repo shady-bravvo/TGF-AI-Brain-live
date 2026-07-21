@@ -27,3 +27,10 @@ Né en 1946, Farouk Kamoun est une figure fondatrice de l'informatique tunisienn
 - [[ENSI]]
 - [[Recherche & Innovation]]
 - [[Infrastructures numériques & énergétiques]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Talents]]
+
+<!-- TGF-AUTO-LINKS:END -->
