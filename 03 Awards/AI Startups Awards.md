@@ -4,7 +4,7 @@ tags: [award, TGF2026]
 ---
 # AI Startups Awards
 
-Récompense les startups développant des solutions innovantes fondées sur l'IA. Pitchs des 12 finalistes à l'[[Inspire Arena]], remise des prix à la [[Diaspora Summer Night 2026]] (29 juillet).
+Récompense les startups développant des solutions innovantes fondées sur l'IA. **Pitchs le 21/07, 10h00–12h30, Impact Stage, [[Salle Limes]]** (session commune avec les [[AI Business Awards]]) → [[Awards - AI Business & Startups Pitchs]]. Remise des prix à la [[Diaspora Summer Night 2026]] (29 juillet).
 
 ## Catégories
 - **Early Stage** — prototype, MVP ou premiers pilotes
@@ -16,6 +16,8 @@ Récompense les startups développant des solutions innovantes fondées sur l'IA
 
 Thème : [[Écosystème Startups]]
 
-## État au 16/07/2026 (presse)
-- **12 startups finalistes** retenues sur ~50 candidatures (Mouna Marrakchi, SG ATUGE). Liste nominative non publiée en ligne — révélation attendue le jour J.
-- Sources : Le Temps News (16/07/2026), Managers.tn (15/07/2026).
+## Jury officiel (programme final, 21/07/2026)
+Jury commun avec les [[AI Business Awards]] : [[Khaled Abdeljaoued]] · [[Zied Ben Othman]] · [[Neila Benzina]] · [[Amine Chouaieb]] · [[Souhir Daoud]] · [[Dalel Krichen]] · [[Emel Tounsi]]
+
+## Finalistes (13 pitchs, 10h00–12h30)
+Détail par créneau : [[Awards - AI Business & Startups Pitchs]].

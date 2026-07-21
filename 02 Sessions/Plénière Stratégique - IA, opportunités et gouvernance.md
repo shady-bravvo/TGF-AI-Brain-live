@@ -8,18 +8,16 @@ lieu: "[[Salle Carthage]]"
 # Conférence Plénière — « Bâtir aujourd'hui les fondations d'une IA créatrice de valeur »
 
 09h30–10h45 (75'), [[Salle Carthage]] · [[TGF 2026 - Tunisia Global Forum]]
-*Titre et lineup officiels (Business Room, 19/07/2026) — anciennement « Plénière Stratégique : IA, opportunités, enjeux, gouvernance éthique et urgences d'action », initialement annoncée à 09h15.*
+*Titre et lineup confirmés par le programme officiel final (21/07/2026) — anciennement « Plénière Stratégique : IA, opportunités, enjeux, gouvernance éthique et urgences d'action ».*
 
 ## Thèmes
 - [[Gouvernance & Éthique de l'IA]]
 - [[IA & Souveraineté]]
 
-## Modération
+## Panélistes officiels (programme final)
 - [[Nozha Boujemaa]] — Senior AI Advisor, Co-chair GPAI/OECD AI Experts Group
-
-## Panélistes officiels
 - [[Jean-Paul Haton]] — Expert IA, co-organisateur du grand séminaire IA de 1986
-- Aslan Berjeb — Président de la [[CONECT]]
+- [[Aslan Berjeb]] — Président de la [[CONECT]]
 - [[Karim Jouini]] — CEO [[Thunders.ai]]
 - [[Karim Beguir]] — Co-Founder & CEO, [[InstaDeep]]
 - [[Khaled Maalej]] — CEO [[Vsora]]

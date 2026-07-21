@@ -7,29 +7,21 @@ lieu: "[[Salle Carthage]]"
 # Cérémonie d'ouverture TGF 2026
 
 08h30–09h15 (45'), [[Salle Carthage]] · [[TGF 2026 - Tunisia Global Forum]]
-**« Intelligence Collective pour bâtir l'avenir de l'IA »** *(programme officiel Business Room, 19/07/2026)*
+**« L'intelligence collective pour bâtir l'avenir de l'IA »** *(programme officiel final, 21/07/2026)*
 
-## Maîtres de cérémonie & ouverture officielle
-- [[Mouna Allani Ben Halima]] — Ancienne Présidente de l'ATUGE Tunisie (maîtresse de cérémonie)
-- [[Tarak Bouacida]] — Commissaire Général du TGF (maître de cérémonie)
+## Lineup officiel final
+- [[Mouna Allani Ben Halima]] — Ancienne Présidente de l'ATUGE Tunisie
+- [[Tarak Bouacida]] — Commissaire Général du TGF
 - [[Amine Aloulou]] — Président de l'ATUGE Tunisie
-
-À 09h15, keynote de [[Badreddine Ouali]] dans la foulée (15', [[Salle Carthage]]).
-
-## Intervenants officiels annoncés
-- [[Mohamed Ali Nafti]] — Ministre des Affaires Étrangères
-- [[Sofiène Hemissi]] — Ministre des Technologies de la Communication
-- [[Mustapha Ferjani]] — Ministre de la Santé
+- [[Mohamed Ali Nafti]] — Ministre des Affaires étrangères, de la Migration et des Tunisiens à l'étranger
 - [[Giuseppe Perrone]] — Ambassadeur de l'UE en Tunisie
-- [[Anne Gueguen]] — Ambassadrice de France en Tunisie
 - [[Elisabeth Wolbers]] — Ambassadrice d'Allemagne en Tunisie
-- [[Nejia Gharbi]] — CEO [[Caisse des Dépôts et Consignations]]
-- [[Badreddine Ouali]] — Chairman [[Vermeg]]
-- [[Mehdi Houas]] — Président fondateur de [[Talan]]
+- [[Anne Gueguen]] — Ambassadrice de France en Tunisie
+- [[Nejia Gharbi]] — DG de la [[Caisse des Dépôts et Consignations]] – Tunisie
 
-## Speakers confirmés
-*Confirmé par la presse (La Presse 15/07/2026, Managers 15/07/2026) :*
-- [[Mohamed Ali Nafti]] — Ministre des Affaires étrangères, de la Migration et des Tunisiens à l'étranger : présence confirmée à l'ouverture officielle.
-- [[Badreddine Ouali]] — Président de [[Vermeg]] : intervention en matinée, dans la foulée de l'ouverture officielle (« La matinée se poursuivra par une intervention très attendue de Badreddine Ouali » — La Presse).
+À 09h15, keynote de [[Badreddine Ouali]] dans la foulée (15', [[Salle Carthage]]) → [[Keynote - Badreddine Ouali]].
 
-Sources : [La Presse, 15/07/2026](https://www.lapresse.tn/2026/07/15/tunisia-global-forum-2026-plus-de-2-300-decideurs-et-experts-attendus-a-tunis-pour-debattre-de-lavenir-de-lia/) · [Managers, 15/07/2026](https://managers.tn/2026/07/15/latuge-place-lurgence-et-les-opportunites-de-lia-au-coeur-du-tunisia-global-forum-2026/)
+> [!note] Écart vs annonces antérieures
+> Le programme final ne mentionne plus à l'ouverture : [[Sofiène Hemissi]] (Ministre des Technologies de la Communication), [[Mustapha Ferjani]] (keynote déplacée à la [[Cérémonie de clôture TGF 2026|clôture]], 14h45) ni [[Mehdi Houas]] (keynote de clôture, 14h30).
+
+Sources : programme officiel final (PDF/Canva, 21/07/2026) · [La Presse, 15/07/2026](https://www.lapresse.tn/2026/07/15/tunisia-global-forum-2026-plus-de-2-300-decideurs-et-experts-attendus-a-tunis-pour-debattre-de-lavenir-de-lia/) · [Managers, 15/07/2026](https://managers.tn/2026/07/15/latuge-place-lurgence-et-les-opportunites-de-lia-au-coeur-du-tunisia-global-forum-2026/)

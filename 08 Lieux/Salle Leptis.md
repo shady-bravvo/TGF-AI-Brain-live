@@ -4,4 +4,6 @@ tags: [lieu, TGF2026]
 ---
 # Salle Leptis
 
-Salle du [[Radisson Blu Tunis]] dédiée aux **Talks Awards Pitches** du [[TGF 2026 - Tunisia Global Forum]] : pitchs [[AI Business Awards]] & [[AI Startups Awards]] (09h30) et [[AI Research Awards]] & Deeptechs (11h30). *(Source : programme officiel Business Room, 19/07/2026.)*
+Salle du [[Radisson Blu Tunis]]. Au programme final du [[TGF 2026 - Tunisia Global Forum]] *(21/07/2026)* :
+- 10h00–12h30 — **Awards Pitchs** : [[Awards - AI Research & Deeptech Pitchs|Jury & Pitchs AI Research & Deeptech Awards]]
+- 13h00–14h00 — **Innovate Stage** : [[Open Talks]]

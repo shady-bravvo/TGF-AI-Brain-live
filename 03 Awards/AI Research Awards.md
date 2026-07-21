@@ -4,7 +4,7 @@ tags: [award, TGF2026]
 ---
 # AI Research Awards
 
-40 ans après le grand séminaire tuniso-français sur l'IA, récompense la recherche et l'innovation en IA de chercheurs de Tunisie et de la [[Diaspora tunisienne]]. Pitchs des 12 finalistes au [[Talk Innovate - Connecting Research, Entrepreneurship and Industry|Innovate Arena]], remise des prix à la [[Cérémonie de clôture TGF 2026]].
+40 ans après le grand séminaire tuniso-français sur l'IA, récompense la recherche et l'innovation en IA de chercheurs de Tunisie et de la [[Diaspora tunisienne]]. **Pitchs « AI Research & Deeptech Awards » le 21/07, 10h00–12h30, [[Salle Leptis]]** → [[Awards - AI Research & Deeptech Pitchs]].
 
 ## Catégories
 - **Research Excellence & Innovation** — travaux les plus innovants
@@ -16,7 +16,9 @@ tags: [award, TGF2026]
 
 Thème : [[Recherche & Innovation]]
 
-## État au 16/07/2026 (presse)
-- **12 projets de valorisation de la recherche** retenus comme finalistes. Liste nominative non publiée en ligne.
-- Au total, **27 finalistes** des 3 AI Awards pitcheront sur scène le 21 juillet.
-- Sources : Le Temps News (16/07/2026), Managers.tn (15/07/2026), Tuniscope (14/07/2026).
+## Jury officiel (programme final, 21/07/2026)
+[[Noomane Fehri]] (Président, [[Medin Fund|MP Medin Fund]]) · [[Houda Ghozzi]] (CEO, OST) · [[Farah Barika Ktata]] (Présidente [[ATIA]]) · [[Salah Salhi]] (Directeur ISI) · [[Anis Daoud]] (Liynkocare) · [[Fatma Siala]] (ISAMM/ATIA) · [[Mohamed Gabsi]] (Acetef)
+
+## Finalistes (11 pitchs, 10h00–12h30)
+DEEPSAFE, Contractzlab, MIR-ACLE Biotech, Horizon, TouchlessOR, Rybsen, Smart Passport, LEASMédicale, Alzheimer's disease detection, AISE, Synthetic data generation.
+Détail par créneau : [[Awards - AI Research & Deeptech Pitchs]].

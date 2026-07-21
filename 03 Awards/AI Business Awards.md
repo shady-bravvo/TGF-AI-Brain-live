@@ -4,7 +4,7 @@ tags: [award, TGF2026]
 ---
 # AI Business Awards
 
-Récompense les entreprises ayant déployé avec succès des projets IA créateurs de valeur. Pitchs des 12 finalistes à l'[[Inspire Arena]], remise des prix à la [[Diaspora Summer Night 2026]] (29 juillet).
+Récompense les entreprises ayant déployé avec succès des projets IA créateurs de valeur. **Pitchs le 21/07, 10h00–12h30, Impact Stage, [[Salle Limes]]** (session commune avec les [[AI Startups Awards]]) → [[Awards - AI Business & Startups Pitchs]]. Remise des prix à la [[Diaspora Summer Night 2026]] (29 juillet).
 
 ## Catégories
 - **Customer Experience & Services**
@@ -16,6 +16,8 @@ Récompense les entreprises ayant déployé avec succès des projets IA créateu
 
 Thème : [[Talents & Transformations]]
 
-## État au 16/07/2026 (presse)
-- Finalistes sélectionnés (inclus dans les **27 finalistes** des 3 AI Awards annoncés en conférence de presse). Liste nominative non publiée en ligne.
-- Sources : Managers.tn (15/07/2026), Tuniscope (14/07/2026).
+## Jury officiel (programme final, 21/07/2026)
+[[Khaled Abdeljaoued]] (Président, Cluster Mecatronic) · [[Zied Ben Othman]] ([[Smart Capital]]) · [[Neila Benzina]] (Présidente FrenchTech) · [[Amine Chouaieb]] (Président [[CJD]]) · [[Souhir Daoud]] (Fondation Hanns Seidel) · [[Dalel Krichen]] · [[Emel Tounsi]] (Réseau Entreprendre)
+
+## Finalistes (pitchs, avec les AI Startups Awards)
+Liste complète des 13 pitchs : [[Awards - AI Business & Startups Pitchs]] — EymHR, Data for ETHIC, Robocare, Bussie, Preemptics, Drug-IT, Nartaq, Ferid Around The World, Digiforce, Speciflo, Tenjah, Pharma Link, Supplyzpro.

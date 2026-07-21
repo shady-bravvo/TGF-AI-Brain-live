@@ -1,23 +1,25 @@
 ---
 type: session
 tags: [session, talk, TGF2026]
-horaire: 11h–14h
-lieu: "[[Impact Arena]]"
+horaire: 10h00–12h30
+lieu: "[[Salle Limes]]"
 ---
-# Talk Impact — Fostering Diaspora impact for the AI revolution
+# Talk Impact — Impact Stage (Salle Limes)
 
-11h–14h, [[Impact Arena]] (Mezzanine) · [[TGF 2026 - Tunisia Global Forum]]
+10h00–12h30 · [[TGF 2026 - Tunisia Global Forum]]
+*Note chapeau — le détail est dans les notes de session ci-dessous (programme officiel final, 21/07/2026).*
 
-Regards croisés de 3 speakers. Suivi de :
-- Partners Pitches : soft-power de la diaspora, investissement & entrepreneuriat
-- **Come-Backs & Give-Backs stories**
+## Déroulé final de l'Impact Stage
+| Horaire | Session | Lieu |
+|---|---|---|
+| 10h00–12h30 | [[Awards - AI Business & Startups Pitchs\|Jury & Pitchs : AI Business & Startups Awards]] (13 pitchs) | [[Salle Limes]] |
 
-## Sessions officielles correspondantes (Business Room, 19/07/2026)
-- **10h00 (90'), [[Salle Limes]]** — Talks Impact Stage, Startups Talks : Rafik Hwimil (Contractzlab), Mohamed Aziz Elhif (Drug-IT), Imen Hbiri (Robocare), Riadh Jouini (Nartaq), Seddik Houilmi (Supplyzpro), Aymen Khelifi (Data for ETHIC), Yassine Rezgui (Rybsen), Khaled Ben Driss (Preemptics), Aimen Jouini (EymHR).
-- **12h00 (45'), [[Salle Limes]]** — Talks Impact Stage, Partner Talks : Anis Ben Youssef ([[Groupe Studi]]), Brahim Loukil ([[Code Once]]), Imed Kraiem ([[Tunis International Bank]]), Souhir Daoud (Fondation Hanns Seidel).
-- **13h00 (45'), [[Salle Limes]]** — Talks Impact Stage, Open Talks : Karim Belkhiria (Bussie), Ismail Laribi (AGEOS), Aida Hamdi (Chaire UNESCO Femmes et Science), Refka Paysan (Femmes@Numérique), Aimen Jouini (EymHR), Mohamed Seddiki (MovePayment).
-- **13h00 (45'), [[Espace Dhiyefa]]** — Panel « Engager la Diaspora pour développer l'investissement, l'entrepreneuriat et les échanges ». Mod. Adel Beznine. Panélistes : Bilel Yan Hagen ([[GIZ]]), Ikhlas Haddar ([[Swisscontact]]), Yasmine Laribi (The Dot), Kaouther Ghariani (ONUDI), Andrea Ortiz (OIM).
-- **13h45 & 14h00, [[Espace Oya]]** — Tatooine Project Update (Yahya Bouhiel, [[Karim Beguir]]) · DAR : accompagner les envies de retour (Beyram Belhaj Amor, Sirine Ben Hassine).
+Sessions liées à la diaspora au programme final :
+- [[Panel - Engager la Diaspora]] — 13h00–13h45, [[Espace Dhiyefa|Salle Dhiyefa]]
+- [[Partner Talks]] — 13h00–14h00, [[Salle Limes]] (dont TIB au service des investisseurs de la Diaspora)
+- [[Tatooine Project Update]] (13h45) & [[DAR - Accompagner les envies de retour|DAR]] (14h00) — [[Espace Oya|Salle Oya]]
+
+> [!note] Les « Startups Talks » 10h00 annoncés le 19/07 (Contractzlab, Drug-IT, Robocare, Nartaq, Supplyzpro, Data for ETHIC, Rybsen, Preemptics, EymHR) sont intégrés au programme final sous forme de **pitchs des Awards** ([[Awards - AI Business & Startups Pitchs|Salle Limes]] et [[Awards - AI Research & Deeptech Pitchs|Salle Leptis]]).
 
 ## Thème
 [[Diaspora tunisienne]]
