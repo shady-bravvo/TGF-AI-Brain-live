@@ -9,6 +9,7 @@ domaine: souveraineté
 
 ## Ce qui s'est dit au TGF
 - [[Transcript - Cérémonie d'ouverture]] : Il soutient qu'aucun pays ne peut réussir seul dans l'IA, et que la souveraineté tunisienne est compatible avec une pleine intégration dans l'écosystème européen. — [[Giuseppe Perrone]]
+- [[Transcript - Cérémonie d'ouverture - Keynote Badreddine Ouali]] : Il juge irréaliste de vouloir créer des modèles de langage et des centres de données autonomes très énergivores à court terme. Il faut plutôt accepter la main tendue des pays partenaires pour bâtir une souveraineté partagée. — [[Badreddine Ouali]]
 
 ## Notions liées
 - [[Souveraineté des données]]
