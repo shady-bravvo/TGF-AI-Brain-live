@@ -13,3 +13,10 @@ organisation: "Netcom"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[CONECT]]
 - [[Écosystème Startups]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+
+<!-- TGF-AUTO-LINKS:END -->

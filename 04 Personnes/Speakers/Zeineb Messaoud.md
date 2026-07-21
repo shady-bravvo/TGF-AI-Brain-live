@@ -26,3 +26,10 @@ Basée à Tunis et diplômée de l'IHEC Carthage, Zeineb Messaoud compte plus de
 - [[AfriLabs]]
 - [[Écosystème Startups]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+
+<!-- TGF-AUTO-LINKS:END -->

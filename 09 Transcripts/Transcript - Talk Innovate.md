@@ -9,20 +9,26 @@ speakers:
   - "[[Ghazi Ben Othmen]]"
   - "[[Houda Ghozzi]]"
   - "[[Samia Mnif]]"
+  - "[[Amine Abdelkhalek]]"
+  - "[[Karim Ahres]]"
+  - "[[Haithem Afli]]"
+  - "[[Zeineb Messaoud]]"
 date: 2026-07-21
 statut: analysé
-duree: 01:08:08
+duree: 01:45:00
 langue: FR
 source: Captation Live Innovate Stage
 ---
 # Transcript — Talk Innovate
 
 **Session :** [[Talk Innovate - Connecting Research, Entrepreneurship and Industry]]
-**Speakers :** [[Mouna Marrakchi]], [[Mourad Bellassoued]], [[Boulbaba Ben Amor]], [[Ghazi Ben Othmen]], [[Houda Ghozzi]], [[Samia Mnif]]
+**Speakers :** [[Mouna Marrakchi]], [[Mourad Bellassoued]], [[Boulbaba Ben Amor]], [[Ghazi Ben Othmen]], [[Houda Ghozzi]], [[Samia Mnif]], [[Amine Abdelkhalek]], [[Karim Ahres]], [[Haithem Afli]], [[Zeineb Messaoud]]
 **Lieu :** [[Espace Dhiyefa]]
 
 ---
 ## 📝 Transcript brut
+
+### Panel 1 — Valorisation de la recherche : bâtir des champions dans l'IA, la santé et la Biotech
 
 [00:00:01] [[Mouna Marrakchi]] : Avant de commencer, je vous propose de faire un petit tour. Oui, là, ça marche mieux. Un petit tour pour donner la parole à chacun de nos panélistes pour se présenter. Ensuite, on reviendra à cette thématique.
 
