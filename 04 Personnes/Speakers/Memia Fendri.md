@@ -13,3 +13,10 @@ organisation: "World Economic Forum"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Talents & Transformations]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Talents]]
+
+<!-- TGF-AUTO-LINKS:END -->

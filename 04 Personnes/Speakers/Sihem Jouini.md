@@ -14,3 +14,12 @@ organisation: "HEC Paris"
 - [[ATUGE]]
 - [[Talents & Transformations]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Plénière Talents]]
+**Citations :** [[Citation - Contrôle et fondamentaux]]
+**Notions :** [[Thèse CIFRE (Partenariat industrie-laboratoire)]]
+
+<!-- TGF-AUTO-LINKS:END -->
