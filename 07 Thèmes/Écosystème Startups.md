@@ -13,6 +13,7 @@ Sessions : [[Talk Inspire - Scaling our startups ecosystem]] · [[AI Startups Aw
 <!-- TGF-AUTO-LINKS:START -->
 ## 🔗 Contenu du forum
 
+**Transcripts :** [[Transcript - Talk Innovate]]
 **Citations :** [[Citation - Circulation permanente des talents]]
 
 <!-- TGF-AUTO-LINKS:END -->
