@@ -1,6 +1,6 @@
 ---
 type: insight
-tags: [insight, ai-brain, TGF2026]
+tags: [insight, brut, ai-brain, TGF2026]
 confiance: haute | moyenne | basse
 ---
 # 💡 {{title}}

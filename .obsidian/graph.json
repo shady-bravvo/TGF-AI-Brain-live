@@ -8,87 +8,157 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#citation  ",
+      "query": "tag:#exclu",
+      "color": {
+        "a": 1,
+        "rgb": 5066061
+      }
+    },
+    {
+      "query": "tag:#brut",
+      "color": {
+        "a": 1,
+        "rgb": 7829367
+      }
+    },
+    {
+      "query": "tag:#theme-propose",
+      "color": {
+        "a": 1,
+        "rgb": 16747520
+      }
+    },
+    {
+      "query": "tag:#citation",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#lieu  ",
+      "query": "tag:#chiffre",
       "color": {
         "a": 1,
-        "rgb": 16771000
+        "rgb": 6514417
       }
     },
     {
-      "query": "tag:#speaker  ",
+      "query": "tag:#annonce",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "tag:#recommandation",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "tag:#action-proposee",
+      "color": {
+        "a": 1,
+        "rgb": 7153881
+      }
+    },
+    {
+      "query": "tag:#constat",
+      "color": {
+        "a": 1,
+        "rgb": 8033203
+      }
+    },
+    {
+      "query": "tag:#controverse",
+      "color": {
+        "a": 1,
+        "rgb": 16739125
+      }
+    },
+    {
+      "query": "tag:#question-ouverte",
+      "color": {
+        "a": 1,
+        "rgb": 889992
+      }
+    },
+    {
+      "query": "tag:#speaker",
       "color": {
         "a": 1,
         "rgb": 5429216
       }
     },
     {
-      "query": "tag:#personne  ",
+      "query": "tag:#personne",
       "color": {
         "a": 1,
         "rgb": 5431511
       }
     },
     {
-      "query": "tag:#officiel  ",
+      "query": "tag:#theme",
       "color": {
         "a": 1,
-        "rgb": 531110
+        "rgb": 14242639
       }
     },
     {
-      "query": "tag:#session  ",
+      "query": "tag:#session",
       "color": {
         "a": 1,
         "rgb": 5431413
       }
     },
     {
-      "query": "tag:#evenement  ",
-      "color": {
-        "a": 1,
-        "rgb": 11952683
-      }
-    },
-    {
-      "query": "tag:#partenaire  ",
+      "query": "tag:#partenaire",
       "color": {
         "a": 1,
         "rgb": 16449791
       }
     },
     {
-      "query": "tag:#organisation  ",
+      "query": "tag:#organisation",
       "color": {
         "a": 1,
         "rgb": 14258881
       }
     },
     {
-      "query": "tag:#theme  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#livrable  ",
-      "color": {
-        "a": 1,
-        "rgb": 16755978
-      }
-    },
-    {
-      "query": "tag:#livre-blanc  ",
+      "query": "tag:#livre-blanc",
       "color": {
         "a": 1,
         "rgb": 16762880
+      }
+    },
+    {
+      "query": "tag:#evenement",
+      "color": {
+        "a": 1,
+        "rgb": 11952683
+      }
+    },
+    {
+      "query": "tag:#lieu",
+      "color": {
+        "a": 1,
+        "rgb": 16771000
+      }
+    },
+    {
+      "query": "tag:#officiel",
+      "color": {
+        "a": 1,
+        "rgb": 531110
+      }
+    },
+    {
+      "query": "tag:#livrable",
+      "color": {
+        "a": 1,
+        "rgb": 16755978
       }
     }
   ],

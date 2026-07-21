@@ -1,6 +1,6 @@
 ---
 type: citation
-tags: [citation, ai-brain, TGF2026]
+tags: [citation, brut, ai-brain, TGF2026]
 speaker: "[[]]"
 session: "[[]]"
 timecode: ""

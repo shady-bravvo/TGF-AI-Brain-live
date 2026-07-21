@@ -38,7 +38,13 @@ Débats non tranchés, tensions, questions soulevées sans réponse.
 ## Connexions
 Thèmes du vault concernés parmi : [[IA & Souveraineté]], [[Talents & Transformations]], [[Écosystème Startups]], [[Recherche & Innovation]], [[Diaspora tunisienne]], [[Gouvernance & Éthique de l'IA]], [[Infrastructures numériques & énergétiques]] + liens éventuels vers le [[Livre Blanc IA Tunisie]].
 
-Règles : ne rien inventer ; rester fidèle au transcript ; wikilinks [[...]] pour toute notion, personne, session et thème.
+## Tags (liste FERMÉE - voir [[Taxonomie des tags]])
+Chaque élément extrait reçoit :
+- 1 tag de nature : #citation #chiffre #annonce #constat #recommandation #action-proposee #controverse #question-ouverte
+- le tag de statut #brut (jamais #verifie ni #publie : réservés à l'éditeur)
+- si un contenu ne rentre dans aucun thème existant : #theme-propose (ne JAMAIS créer de note de thème)
+
+Règles : ne rien inventer ; rester fidèle au transcript ; wikilinks [[...]] pour toute notion, personne, session et thème (jamais de tags pour les entités) ; aucun tag hors liste fermée ; en cas de doute sur qui a dit quoi, rester en #brut et le signaler.
 ```
 
 💡 Astuce Cowork : donne-moi directement le fichier audio/texte du talk et dis « intègre-le au TGF AI Brain » — je crée le transcript, l'analyse, les notions et les citations, et je relie tout.
