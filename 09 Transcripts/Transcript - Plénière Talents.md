@@ -21,7 +21,7 @@ source: ASR
 
 **Session :** [[Plénière - IA, talents et transformations]]
 **Speakers :** [[Emna Kharouf]], [[Farouk Kamoun]], [[Amel Karboul]], [[Sihem Jouini]], [[Karim Hajjaji]], [[Memia Fendri]], [[Hichem Elloumi]]
-**Lieu :** [[Tunisia Global Forum 2026]]
+**Lieu :** [[TGF 2026 - Tunisia Global Forum]]
 
 ---
 ## 📝 Transcript brut
