@@ -237,13 +237,16 @@
 - [[Salle Leptis]]
 - [[Salle Limes]]
 
-## Notions (14)
+## Notions (17)
 - [[Capacité d'adaptation]]
+- [[Corporate Venture Capital (CVC)]]
 - [[Courbe d'apprentissage (Learning curve)]]
 - [[Cycle de la recherche et innovation]]
+- [[Dark factory]]
 - [[Entropie cognitive (Cognitive entropy)]]
 - [[IA agentique]]
 - [[IA comme accélérateur d'inclusion]]
+- [[Innovation as a team sport]]
 - [[Intelligence augmentée]]
 - [[Liquid cooling]]
 - [[Modèles du monde (Common sense)]]
@@ -260,11 +263,14 @@
 - [[Transcript - Plénière Talents]]
 - [[Transcript - Talk Innovate]]
 
-## Citations (17)
+## Citations (20)
 - [[Citation - Circulation permanente des talents]]
 - [[Citation - Contrôle et fondamentaux]]
 - [[Citation - De l'intelligence artificielle à l'intelligence augmentée]]
+- [[Citation - Dynamique sans écosystème]]
 - [[Citation - Définition du Bâtisseur]]
+- [[Citation - Innovation as a team sport]]
+- [[Citation - L'IA n'est pas un problème technologique]]
 - [[Citation - L'IA pour rattraper la fracture régionale]]
 - [[Citation - L'entrepreneur effacé des contrats]]
 - [[Citation - L'impasse de l'IA générative]]
