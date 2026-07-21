@@ -11,7 +11,6 @@ domaine: souveraineté
 - [[Transcript - Cérémonie d'ouverture]] : Il insiste sur le fait que la souveraineté n'est pas acquise par décret mais bâtie par l'investissement dans les fondations technologiques et humaines. — [[Amine Aloulou]]
 
 ## Notions liées
-- [[Souveraineté des données]]
 - [[Souveraineté (coopérative)]]
 
 ## Thème

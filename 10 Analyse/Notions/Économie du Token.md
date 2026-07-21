@@ -11,7 +11,6 @@ domaine: infrastructure-digitale
 - [[Transcript - Plénière Fondations IA]] : Amir Ben Gacem soutient que la Tunisie a l'opportunité de s'insérer dans cette chaîne en convertissant son rayonnement solaire en puissance de calcul, comblant ainsi le déficit énergétique tout en générant de la valeur internationale. « comment transformer l'énergie abondante qu'on a en Tunisie en, euh, des tokens ou des puissances de calcul qui sont prêts à l'export » — [[Amir Ben Gacem]]
 
 ## Notions liées
-- [[Souveraineté des données]]
 - [[Liquid cooling]]
 
 ## Thème
