@@ -14,9 +14,9 @@ tags: [moc, TGF2026]
 ## 🎤 Sessions
 [[Cérémonie d'ouverture TGF 2026]] · [[Plénière Stratégique - IA, opportunités et gouvernance]] · [[Plénière - IA, souverainetés, données et infrastructures]] · [[Plénière - IA, talents et transformations]] · [[Talk Inspire - Scaling our startups ecosystem]] · [[Talk Innovate - Connecting Research, Entrepreneurship and Industry]] · [[Talk Impact - Fostering Diaspora impact]] · [[Cérémonie de clôture TGF 2026]] · [[Livre Blanc IA Tunisie]]
 
-## 📘 Livre Blanc Tunis@IA
-[[Livre Blanc IA Tunisie]] — 10 mesures phares · 38 recommandations · horizon 2030
-Axes : [[LB Axe 1 - Adoption de l'IA et création de valeur]] · [[LB Axe 2 - Infrastructures critiques]] · [[LB Axe 3 - Données et modèles utiles]] · Leviers : [[LB Levier - Gouvernance IA de confiance]] · [[LB Levier - Talents]]
+## 📘 Livre Blanc TunisIA
+[[Livre Blanc IA Tunisie]] — « Bâtir notre avenir à l'ère de l'IA » · 5 mesures phares structurantes · 41 recommandations · horizon 2030
+Axes : [[LB Axe 1 - Adoption de l'IA et création de valeur]] · [[LB Axe 2 - Infrastructures critiques]] · [[LB Axe 3 - Données et modèles sectoriels]] · Leviers : [[LB Levier - Gouvernance IA de confiance]] · [[LB Levier - Talents]]
 
 ## 🏆 Awards
 [[AI Hackathon Awards]] · [[AI Research Awards]] · [[AI Startups Awards]] · [[AI Business Awards]]

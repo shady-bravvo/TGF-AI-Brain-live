@@ -4,10 +4,14 @@ tags: [comite, TGF2026]
 ---
 # Comité Stratégique — Livre Blanc IA
 
-Experts mobilisés pour le [[Livre Blanc IA Tunisie]] publié lors du [[TGF 2026 - Tunisia Global Forum]].
+Comité Stratégique Tunisia Global Forum 2026 — 22 membres, gouvernance du [[Livre Blanc IA Tunisie]] publié lors du [[TGF 2026 - Tunisia Global Forum]].
+
+**Comité de rédaction** : [[Maledh Marrakchi]] · [[Emna Kharouf]] · [[Nozha Boujemaa]]
 
 ## Membres
-- [[Maledh Marrakchi]] — Expert IA, rapporteur du livre blanc
+- [[Amine Aloulou]] — Executive Partner Wevioo, Président ATUGE Tunisie
+- [[Emna Kharouf]] — Former Partner Deloitte, Ancienne Présidente ATUGE Tunisie
+- [[Maledh Marrakchi]] — Consultant en IA, Universitaire
 - [[Nozha Boujemaa]] — Senior AI Advisor, co-chair GPAI/OECD
 - [[Mehdi Houas]] — Entrepreneur ([[Talan]])
 - [[Badreddine Ouali]] — Chairman [[Vermeg]]
