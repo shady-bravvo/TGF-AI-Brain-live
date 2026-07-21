@@ -10,7 +10,6 @@ speakers:
   - "[[Memia Fendri]]"
   - "[[Hichem Elloumi]]"
   - "[[Emna Kharouf]]"
-  - "[[Speaker 8]]"
 date: 2026-07-21
 statut: analysé
 duree: "01:30:12"
@@ -455,13 +454,13 @@ so crazy maâ ta and frustrating eli ahna we're not there. Euh wal thani haja el
 01:17:10,310 --> 01:17:22,030 [Emna Kharouf ]
 Merci, merci. [applaudissements] Merci beaucoup. Peut-être, on va prendre une question. Il y a deux ou trois questions qui sont dans la file. Euh allez-y, allez-y, posez votre question. Posez votre question, allez-y. 
 
-01:17:22,030 --> 01:17:43,370 [Speaker 8]
+01:17:22,030 --> 01:17:43,370
 Ma question parce que tout le monde, ratas morad, euh, industriel, c'est-- avant la diaspora partout. La question, je pense, s-- ana industriel mouhim yani, fi l'IA. Et nwa nechou ahna fi l'IA. Est-ce qu'on peut poser la question, l'IA : comment protéger le patronat ? Comment protéger un investisseur ? Ta w traj ykhraj. 
 
-01:17:44,470 --> 01:18:37,730 [Speaker 8]
+01:17:44,470 --> 01:18:37,730
 Ta w tkhouf ma3jeb. W li 9a3din nabraou fih 7alil, l'autre, staza. Li nabraou fih 7alil houwa la protection des fonctionnaires walla-- walla l'IA, walla l'IA. Ça n'a rien à voir. On ne peut pas sauver un pays tant que nous n'avons pas une protection patronale. Fi l'macharia3 w ghayr. W rahou mouchan w ratas jayi. Fi ttajrba. Ana 3andi akbar machrou3 3milina fi ttajrba fi France. Ya, ya3mal haka. Ta w li yefnafedou ta. Jou khatina 3la had lwara2a, ma wchafch. Fi France, w fi Tous. Touche ma3ana Tous fi France. Yateena fi l'université ya, koullhom ykhammou fi khaddam. Ykhadma 3lia. Atiniinti chnou khamamtini. Ana comme le patron, comment protéger. Déjà. Aksar les milliardaires fi l'Caire, madame la locale, homa si autoritaires. La nchbou 
 
-01:18:38,930 --> 01:18:55,850 [Speaker 8]
+01:18:38,930 --> 01:18:55,850
 fi 3lich. 3lich. Fama, euh, protection fi l'IA, fi pétrole, fama fi l'industrie militaire, comme chez eux. It doesn't make any chouff. L'industrie noire. Est-ce que l'IA est présente pour protéger face à un Africain ou pas ? Elle nous souhaite. 
 
 01:18:55,850 --> 01:19:24,298 [Emna Kharouf ]

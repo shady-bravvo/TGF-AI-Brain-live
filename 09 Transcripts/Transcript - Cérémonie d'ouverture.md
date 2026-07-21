@@ -404,13 +404,13 @@ Je cède la parole
 00:15:35,120 --> 00:15:41,240 [Tarak Bouacida]
 au représentant du ministère des Affaires étrangères, Monsieur le secrétaire général des
 
-00:00:00,080 --> 00:00:01,880 [Speaker 0]
+00:00:00,080 --> 00:00:01,880
 [bruit de fond] 
 
-00:00:04,160 --> 00:00:05,540 [Speaker 0]
+00:00:04,160 --> 00:00:05,540
 Secrétaire d'État. 
 
-00:00:12,030 --> 00:00:22,610 [Speaker 0]
+00:00:12,030 --> 00:00:22,610
 [bruit de fond] 
 
 00:00:23,820 --> 00:00:24,440 [Secrétaire d'état]
@@ -500,10 +500,10 @@ de bien réfléchir à une meilleure mobilité, aussi souple que flexible, en op
 00:09:26,856 --> 00:10:14,416 [Secrétaire d'état]
 Excellence, mesdames et messieurs, je renouvelle mes remerciements et ma considération à la TIJE et au réseau WATT pour les efforts soutenus qu'ils déploient au service de la Tunisie et de réellement de ses compétences. Je tiens à réaffirmer à cet égard que les portes du ministère des Affaires étrangères, de la Migration et des Tunisiens à l'étranger, ainsi que celles de l'ensemble de nos missions diplomatiques et consulaires à l'étranger, vous demeurent toujours grandes ouvertes. On se tient à vos initiatives et en accompagnement de vos efforts afin de renforcer la réussite et d'atteindre les objectifs communs au service de la Tunisie. Je vous remercie. [applaudissements] 
 
-00:10:14,416 --> 00:10:15,736 [Speaker 0]
+00:10:14,416 --> 00:10:15,736
 Merci beaucoup, Salah. 
 
-00:10:16,976 --> 00:10:24,816 [Speaker 0]
+00:10:16,976 --> 00:10:24,816
 J'appelle maintenant Son Excellence Monsieur Giuseppe Perone, l'ambassadeur de l'Union européenne en Tunisie. 
 
 00:10:31,856 --> 00:10:42,236 [Giuseppe Perrone]
@@ -602,10 +602,10 @@ C'est là qu'il faut agir ensemble et vraiment donner une réponse qui fait en s
 00:19:22,404 --> 00:19:45,884 [Giuseppe Perrone]
 je peux uniquement confirmer que l'Union européenne sera là au côté de la Tunisie, grâce aussi aux apports de ses États membres, pour faire en sorte qu'on soit à l'avant-garde de ces changements qui seront effectivement transformationnels pour l'humanité. Merci. [applaudissements] 
 
-00:19:45,884 --> 00:19:47,404 [Speaker 0]
+00:19:45,884 --> 00:19:47,404
 Merci à Son Excellence 
 
-00:19:48,444 --> 00:19:57,664 [Speaker 0]
+00:19:48,444 --> 00:19:57,664
 l'ambassadeur de l'Union européenne. J'appelle maintenant Son Excellence Madame Elisabeth Wolbers, ambassadrice de la République fédérative d'Allemagne. 
 
 00:20:06,504 --> 00:20:08,224 [Elisabeth Wolbers]
@@ -677,7 +677,7 @@ Les talents sont là. Leur motivation aussi est là. Il s'agit désormais de les
 00:26:24,728 --> 00:27:06,448 [Elisabeth Wolbers]
 qui visent au futur, qui sont stratégiques, qui sont importants pour nous tous dans notre futur. Félicitations et mes remerciements. Je peux vous dire que l'Allemagne continuera d'être au côté de la Tunisie et de sa diaspora pour faire vivre cette vision, cette ambition. Je vous souhaite bien sûr un forum riche en échanges, en rencontres et en projets porteurs d'avenir. Je me réjouis déjà de découvrir les fruits des initiatives qui auront été semées aujourd'hui. Merci. [applaudissements] 
 
-00:27:06,448 --> 00:27:14,328 [Speaker 0]
+00:27:06,448 --> 00:27:14,328
 Merci beaucoup. J'appelle maintenant Madame Anne Guéguen, Son Excellence l'ambassadrice de France en Tunisie. 
 
 00:27:23,568 --> 00:27:40,368 [Anne Gueguen]
@@ -728,7 +728,7 @@ sur les usages de l'IA dans le secteur de la santé en particulier. Deuxième ch
 00:39:15,992 --> 00:40:54,392 [Anne Gueguen]
 Je voudrais conclure en reconnaissant que bâtir autour de la Méditerranée une IA de confiance est un défi. Construire cet écosystème n'est pas évident, mais je suis convaincue que c'est un défi que nous pouvons relever ensemble parce que notre région commune dispose d'avantages considérables : une jeunesse qualifiée, une jeunesse qui veut apprendre, des chercheurs et des entrepreneurs reconnus à l'international. Il y en a beaucoup d'éminents qui sont présents ici aujourd'hui. Une diaspora engagée que vous êtes, des ressources naturelles favorables au développement d'infrastructures numériques durables et une position unique au carrefour de l'Europe, de l'Afrique et du Moyen-Orient. L'ATUJE, qui rassemble des talents tunisiens formés dans les plus grandes écoles et engagés dans le développement économique de leur pays, illustre je crois parfaitement cette richesse. Félicitations à nouveau à l'ATUJE et à son président pour cet effort pour nous mobiliser. Et j'espère nous mobiliser de manière décisive pour bâtir cet écosystème méditerranéen de l'intelligence artificielle, qui soit un écosystème de confiance qui nous permette de nous mettre au service et de mettre l'intelligence artificielle au service du progrès économique et social de tous. Tout ceci dans une liberté et une souveraineté que j'espère toujours plus grande. Merci et bons travaux à tous. [applaudissements] 
 
-00:40:54,392 --> 00:41:03,112 [Speaker 0]
+00:40:54,392 --> 00:41:03,112
 Merci encore Madame l'Ambassadrice. J'appelle maintenant Madame Nejia Gharbi, directrice générale de la Caisse des Dépôts et Consignations tunisiennes. 
 
 00:41:14,072 --> 00:41:15,052 [Nejia Gharbi]
