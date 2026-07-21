@@ -13,3 +13,10 @@ organisation: "MTCEN"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Gouvernance & Éthique de l'IA]]
 - [[Écosystème Startups]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Innovate]]
+
+<!-- TGF-AUTO-LINKS:END -->

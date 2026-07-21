@@ -15,6 +15,6 @@ Sessions : [[Talk Innovate - Connecting Research, Entrepreneurship and Industry]
 
 **Transcripts :** [[Transcript - Plénière Talents]] · [[Transcript - Talk Innovate]]
 **Citations :** [[Citation - L'impasse de l'IA générative]] · [[Citation - Préparer l'avenir sans attendre]] · [[Citation - Stratégie IA et souveraineté de l'innovation]]
-**Notions :** [[Cycle de la recherche et innovation]] · [[IA agentique]] · [[Modèles du monde (Common sense)]] · [[Thèse CIFRE (Partenariat industrie-laboratoire)]] · [[Vallée de la mort]]
+**Notions :** [[Cycle de la recherche et innovation]] · [[IA agentique]] · [[Innovation as a team sport]] · [[Modèles du monde (Common sense)]] · [[Thèse CIFRE (Partenariat industrie-laboratoire)]] · [[Vallée de la mort]]
 
 <!-- TGF-AUTO-LINKS:END -->

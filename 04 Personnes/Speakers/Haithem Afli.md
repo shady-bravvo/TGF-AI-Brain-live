@@ -18,5 +18,7 @@ organisation: "Munster Technological University"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Innovate]]
+**Citations :** [[Citation - Innovation as a team sport]]
+**Notions :** [[Innovation as a team sport]]
 
 <!-- TGF-AUTO-LINKS:END -->

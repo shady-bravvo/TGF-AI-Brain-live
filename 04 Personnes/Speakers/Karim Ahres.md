@@ -18,5 +18,7 @@ organisation: "Netcom"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Innovate]]
+**Citations :** [[Citation - L'IA n'est pas un problème technologique]]
+**Notions :** [[Dark factory]]
 
 <!-- TGF-AUTO-LINKS:END -->
