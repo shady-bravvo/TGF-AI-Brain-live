@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "zei",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -172,6 +172,6 @@
   "repelStrength": 10.6727430555556,
   "linkStrength": 0.789713541666667,
   "linkDistance": 250,
-  "scale": 1.5006701515334184,
-  "close": true
+  "scale": 0.7248631614611605,
+  "close": false
 }
