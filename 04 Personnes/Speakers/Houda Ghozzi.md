@@ -33,5 +33,6 @@ Docteure en management stratégique de l'Université Paris-Dauphine, Houda Ghozz
 
 **Transcripts :** [[Transcript - Talk Innovate]]
 **Citations :** [[Citation - L'entrepreneur effacé des contrats]]
+**Synthèses :** [[Insight - 08 - Franchir la vallée de la mort]]
 
 <!-- TGF-AUTO-LINKS:END -->

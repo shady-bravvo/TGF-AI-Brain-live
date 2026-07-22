@@ -16,5 +16,6 @@ Sessions : [[Plénière - IA, souverainetés, données et infrastructures]] · [
 **Transcripts :** [[Transcript - Plénière Fondations IA]]
 **Citations :** [[Citation - L'éducation à l'âge de l'IA]] · [[Citation - La souveraineté se construit]] · [[Citation - Ne pas subir l'IA]] · [[Citation - Servir le café ou s'asseoir à la table de l'IA]] · [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
 **Notions :** [[Dark factory]] · [[Souveraineté (capacitaire)]] · [[Souveraineté (coopérative)]]
+**Synthèses :** [[Insight - 01 - Souveraineté, une construction pas un slogan]]
 
 <!-- TGF-AUTO-LINKS:END -->

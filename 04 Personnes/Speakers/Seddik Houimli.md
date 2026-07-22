@@ -18,5 +18,6 @@ organisation: "Supplyzpro"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Inspire]]
+**Synthèses :** [[Insight - 02 - Le soleil comme usine à calcul]]
 
 <!-- TGF-AUTO-LINKS:END -->

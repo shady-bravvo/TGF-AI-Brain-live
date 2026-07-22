@@ -21,5 +21,6 @@ organisation: "Banco Santander UK"
 **Transcripts :** [[Transcript - Plénière Talents]]
 **Citations :** [[Citation - Cinquante ans de taux de change]] · [[Citation - Désolé, pour le pognon]] · [[Citation - L'IA réduit les coûts humains]] · [[Citation - Plus vite, pas mieux]]
 **Notions :** [[Capacité d'adaptation]]
+**Synthèses :** [[Insight - 03 - Diaspora, circulation plutôt que retour]] · [[Insight - 04 - Le verrou réglementaire avant le verrou technologique]] · [[Insight - 05 - La courbe d'apprentissage volée]] · [[Insight - 06 - L'IA accélère, elle n'améliore pas en soi]]
 
 <!-- TGF-AUTO-LINKS:END -->

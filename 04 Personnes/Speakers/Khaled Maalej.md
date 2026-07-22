@@ -34,5 +34,6 @@ En 2015, il fonde VSORA, société française de puces IA dont il est CEO. VSORA
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Fondations IA]]
+**Synthèses :** [[Insight - 02 - Le soleil comme usine à calcul]]
 
 <!-- TGF-AUTO-LINKS:END -->

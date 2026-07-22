@@ -33,5 +33,6 @@ Avec Solecrypt, il combine cette expérience financière avec une ambition d'inf
 
 **Transcripts :** [[Transcript - Plénière Fondations IA]]
 **Notions :** [[Liquid cooling]] · [[Économie du Token]]
+**Synthèses :** [[Insight - 02 - Le soleil comme usine à calcul]]
 
 <!-- TGF-AUTO-LINKS:END -->

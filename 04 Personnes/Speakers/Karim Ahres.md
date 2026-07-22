@@ -20,5 +20,6 @@ organisation: "Netcom"
 **Transcripts :** [[Transcript - Talk Innovate]]
 **Citations :** [[Citation - L'IA n'est pas un problème technologique]]
 **Notions :** [[Dark factory]]
+**Synthèses :** [[Insight - 07 - Un enjeu économique et organisationnel, pas technologique]]
 
 <!-- TGF-AUTO-LINKS:END -->

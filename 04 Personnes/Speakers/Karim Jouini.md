@@ -34,5 +34,6 @@ En janvier 2025, il co-fonde avec Jihed Othmani Thunders.ai (initialement Thunde
 
 **Transcripts :** [[Transcript - Plénière Fondations IA]] · [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - Cinquante ans de taux de change]] · [[Citation - Le LLM est devenu un détail]] · [[Citation - Les bas salaires bloquent la digitalisation]] · [[Citation - Mourir à 30 mètres sous l'eau]] · [[Citation - Nos amis européens, nos amis chinois]]
+**Synthèses :** [[Insight - 02 - Le soleil comme usine à calcul]] · [[Insight - 04 - Le verrou réglementaire avant le verrou technologique]] · [[Insight - 07 - Un enjeu économique et organisationnel, pas technologique]]
 
 <!-- TGF-AUTO-LINKS:END -->

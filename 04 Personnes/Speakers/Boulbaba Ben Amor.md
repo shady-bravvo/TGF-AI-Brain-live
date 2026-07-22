@@ -20,5 +20,6 @@ organisation: "Inception"
 **Transcripts :** [[Transcript - Talk Innovate]]
 **Citations :** [[Citation - De l'intelligence artificielle à l'intelligence augmentée]]
 **Notions :** [[Intelligence augmentée]]
+**Synthèses :** [[Insight - 10 - Choisir l'IA plutôt que la subir]]
 
 <!-- TGF-AUTO-LINKS:END -->
