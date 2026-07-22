@@ -18,7 +18,7 @@ organisation: "The Education Outcomes Fund"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Talents]]
-**Citations :** [[Citation - Perdre la courbe d'apprentissage]] · [[Citation - Quoi enseigner sur l'IA]]
+**Citations :** [[Citation - Ahna Tunis hokara]] · [[Citation - Perdre la courbe d'apprentissage]] · [[Citation - Quoi enseigner sur l'IA]]
 **Notions :** [[Courbe d'apprentissage (Learning curve)]] · [[Entropie cognitive (Cognitive entropy)]]
 
 <!-- TGF-AUTO-LINKS:END -->

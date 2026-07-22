@@ -32,7 +32,7 @@ Originaire des faubourgs de Tunis, Badreddine Ouali est diplômé de l'École de
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Cérémonie d'ouverture - Keynote Badreddine Ouali]]
-**Citations :** [[Citation - L'IA pour rattraper la fracture régionale]] · [[Citation - Servir le café ou s'asseoir à la table de l'IA]]
+**Citations :** [[Citation - L'IA pour rattraper la fracture régionale]] · [[Citation - La frontière de Carthage]] · [[Citation - Servir le café ou s'asseoir à la table de l'IA]]
 **Notions :** [[IA comme accélérateur d'inclusion]] · [[Souveraineté (coopérative)]]
 
 <!-- TGF-AUTO-LINKS:END -->

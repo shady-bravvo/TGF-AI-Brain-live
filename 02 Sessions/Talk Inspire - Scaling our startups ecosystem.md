@@ -27,6 +27,6 @@ Les pitchs des awards se tiennent désormais : [[AI Business Awards]] & [[AI Sta
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Inspire]]
-**Citations :** [[Citation - Le LLM est devenu un détail]] · [[Citation - Mourir à 30 mètres sous l'eau]] · [[Citation - Ne pas subir son système d'information]]
+**Citations :** [[Citation - Le LLM est devenu un détail]] · [[Citation - Mourir à 30 mètres sous l'eau]] · [[Citation - Ne pas subir son système d'information]] · [[Citation - Nos amis européens, nos amis chinois]]
 
 <!-- TGF-AUTO-LINKS:END -->

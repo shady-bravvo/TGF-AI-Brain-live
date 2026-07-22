@@ -27,6 +27,6 @@ lieu: "[[Salle Carthage]]"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Fondations IA]]
-**Citations :** [[Citation - L'impasse de l'IA générative]] · [[Citation - Les bas salaires bloquent la digitalisation]] · [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
+**Citations :** [[Citation - L'impasse de l'IA générative]] · [[Citation - Les bas salaires bloquent la digitalisation]] · [[Citation - Les talents sont à l'export]] · [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
 
 <!-- TGF-AUTO-LINKS:END -->

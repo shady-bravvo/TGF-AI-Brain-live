@@ -17,7 +17,7 @@ organisation: "MESRS"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Innovate]]
-**Citations :** [[Citation - Stratégie IA et souveraineté de l'innovation]]
+**Citations :** [[Citation - Les chercheurs milliardaires]] · [[Citation - Stratégie IA et souveraineté de l'innovation]]
 **Notions :** [[Cycle de la recherche et innovation]] · [[Vallée de la mort]]
 
 <!-- TGF-AUTO-LINKS:END -->

@@ -19,7 +19,7 @@ organisation: "Banco Santander UK"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Talents]]
-**Citations :** [[Citation - Plus vite, pas mieux]]
+**Citations :** [[Citation - Cinquante ans de taux de change]] · [[Citation - Désolé, pour le pognon]] · [[Citation - L'IA réduit les coûts humains]] · [[Citation - Plus vite, pas mieux]]
 **Notions :** [[Capacité d'adaptation]]
 
 <!-- TGF-AUTO-LINKS:END -->
