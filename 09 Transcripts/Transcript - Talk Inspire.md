@@ -9,16 +9,22 @@ speakers:
   - "[[Tariq Chleifa]]"
   - "[[Karim Jouini]]"
   - "[[Seddik Houimli]]"
+  - "[[Karim Beguir]]"
+  - "[[Yahya Bouhlel]]"
+  - "[[Mariem Dei]]"
+  - "[[Marouen Montasser]]"
+  - "[[Sirine Ben Hassine]]"
+  - "[[Beyram Belhaj Amor]]"
 date: 2026-07-21
 statut: analysé
-duree: 01:15:00
+duree: 01:45:00
 langue: mixte
 source: Verbatim J-Oya
 ---
 # Transcript — Talk Inspire
 
 **Session :** [[Talk Inspire - Scaling our startups ecosystem]]
-**Speakers :** [[Marouane Kessentini]], [[Khaled Bouzid]], [[Tarek Triki]], [[Tariq Chleifa]], [[Karim Jouini]], [[Seddik Houimli]]
+**Speakers :** [[Marouane Kessentini]], [[Khaled Bouzid]], [[Tarek Triki]], [[Tariq Chleifa]], [[Karim Jouini]], [[Seddik Houimli]], [[Karim Beguir]], [[Yahya Bouhlel]], [[Mariem Dei]], [[Marouen Montasser]], [[Sirine Ben Hassine]], [[Beyram Belhaj Amor]]
 **Lieu :** [[Espace Oya]]
 
 ---
@@ -970,17 +976,298 @@ Merci beaucoup. Merci à tous. Merci pour votre patience.
 Merci à mes intervenants. Et à bientôt, j'espère.
 
 ---
+
+### 📌 Session : Tatooine Project Update (13h45–14h00)
+
+00:00:00,080 --> 00:00:25,500 [Karim Beguir]
+Qu'il y avait un certain nombre de mesures à prendre pour construire l'avenir de l'écosystème technologique en Tunisie. Et la quatrième mesure, c'était l'éducation. Aujourd'hui, on voulait faire le follow-up d'une initiative que j'avais annoncée il y a un an, qui était Project Tatooine, qui était cette idée de former 10 000 jeunes sur l'ensemble du territoire tunisien. 
+
+00:00:27,760 --> 00:00:38,120 [Karim Beguir]
+À la TUJ et avec Tunisia Global Forum, c'est un bouillonnement d'idées, d'initiatives, mais ce qui est important aussi, c'est qu'on fasse le suivi. 
+
+00:00:39,520 --> 00:01:26,480 [Karim Beguir]
+Aujourd'hui, on a avec nous Yahya, le PDG de GoMyCode, qui va nous dire concrètement ce qu'on a pu faire sur ce projet. Moi, je suis un entrepreneur. Ce qui compte pour moi, c'est l'impact réel, ce n'est pas les effets d'annonce. Et donc voir où est-ce qu'on en est, voir ce qui marche, voir ce qu'on peut améliorer, mais surtout continuer à avancer. Parce que l'éducation à l'âge de l'IA, c'est une nécessité absolue. Les systèmes d'IA sont tellement puissants que si on forme nos jeunes à savoir les utiliser, ils peuvent littéralement construire l'avenir et créer une abondance d'opportunités, d'intelligence et de prospérité pour tous en Tunisie. Je ne veux pas passer plus de temps parce que Yahya a des chiffres concrets, donc je vais lui passer la parole. Merci. 
+
+00:01:28,100 --> 00:01:31,280 [Karim Beguir]
+[applaudissements] 
+
+00:01:31,280 --> 00:02:42,480 [Yahya Bouhlel]
+Merci Karim. Really excited to be on the stage and share with you more updates on the GoMyCode Tatooine project. We're very lucky and privileged to have people like Karim and others like Khalid Halili, Karim Jouini, Zohra supporting this project. So the idea of this project actually is to make AI education really accessible and relevant in the most underserved regions of the country. Of course, we want to answer this question with backed data and backed informations. And this is why today we're going to share with you some concrete examples and stories and a year later, where we are right now in the execution of the project. We do our best to execute and deliver this project in very complex environment, in places where there is nothing. But we managed today to deliver concrete numbers. We have two students that are going to join us in the stage, but we're going to start with. So in 2025, we trained 1839 students. These are students that we fully funded in scholarship funding. So the project actually started in 2024, but became official and we became, 
+
+00:02:43,860 --> 00:03:15,400 [Yahya Bouhlel]
+let's say, institutional in 2025. So in 2025, we trained 1839 students. So far, we certified and graduated 881 students. So we don't certify and graduate manually. These are people who finished their certification on the learning platform. The platform is issuing the certifications, and a third party who happens to be NVIDIA or Contia or Meta, issues the layer of the certification. So we do this. Actually, we did this-- 
+
+00:03:19,220 --> 00:03:19,900 [Yahya Bouhlel]
+The clicker. 
+
+00:03:21,620 --> 00:03:22,240 [Yahya Bouhlel]
+Oops, sorry. 
+
+00:03:23,520 --> 00:03:35,060 [Yahya Bouhlel]
+So if you look at the breakdown of the students that we trained in 2025. So we trained 673 students on generative AI, 
+
+00:03:36,140 --> 00:04:05,700 [Yahya Bouhlel]
+283 students on advanced digital marketing, 264 on software, 252 on cybersecurity, 209 on data analytics, and 125 on graphic design, and 44 on other tracks like e-commerce. The training and certifications and the programs are always coupled with a third-party certificate like Meta-certified, Contia Cybersecurity, Microsoft Power BI, Adobe Certified. And these are very valuable certifications within the workforce and the job market. 
+
+00:04:07,540 --> 00:04:19,560 [Yahya Bouhlel]
+These are the tracks that we certified people. These are the tracks also we judge where there is important economic impact on the student's life and where these recruiters are looking constantly for these skills and technologies. 
+
+00:04:20,660 --> 00:04:22,500 [Yahya Bouhlel]
+Now, what's really interesting is-- 
+
+00:04:26,180 --> 00:05:11,780 [Yahya Bouhlel]
+This is also the breakdown of the students across the eight different regions of the country. As you can see here, we managed to expand physically, so having a physical location, thanks to our partners in Gabès, in Tataouine, in Kairouan, in Béja, in Touzeur, in Djerba and Kef. These physical locations we operate ourselves or with our partners. Shout out to Fondation Tunisie pour le Development, where they're procuring their spaces for us to be able to deliver these trainings. There's a lot of cities that we don't operate physical spaces, like Sidi Bouzid, and we managed to go there through a fully online rollout. On an average basis, we managed to train and certify between 100 and 120 per city or per region. What's really important so far, and out of the 
+
+00:05:13,100 --> 00:07:01,608 [Yahya Bouhlel]
+1800 students so far, we have roughly 890 people finished, certified, graduated. And we still have a lot of students that are still going through the program because these are six months to five months to seven months program duration. So a lot of students are still going through the program. We recorded 647 unique learners with documented positive career or livelihood outcomes. These are people that found job, that started as freelance workers, that got internships, that started as remote workers, that got salary growth, or there's tangible outcomes. These data we back, we collect every single day, every single week. And we record even the number of interviews, for example, they did with the recruiters, with the company. And we recorded around 400 interviews recorded that was done with recruiters and employers. We also have around 141 students that are continuing their studies further, and we recorded in total around 528 Proof link or files attached to the outcome records. We do these outcome records measurements on a weekly, daily, monthly basis. We want to calculate the impact because it's very important to calculate the impact. Our cost structure, if you look at the cost, it costs us 568 USD per documented positive outcomes or livelihood outcomes, which is 7.5% estimated 12-month learner multiplier. So for the same amount of money that we spend on the students, the students are out there and generating 7.5 times value in terms of that. This is a highly impactful investment. 
+
+00:07:02,628 --> 00:07:25,608 [Yahya Bouhlel]
+I want also to share more on the NPS and the quality of the experience. When we measure the NPS, these are systems that measure the NPS. This is not a manual NPS that we ask people to rate us. The platform is giving a survey asking students to rate us. We collect this NPS. And so far for the Tatawin project, we collected over 4,114 
+
+00:07:26,788 --> 00:07:44,368 [Yahya Bouhlel]
+student individual feedback. On an average basis, we get two reviews per student. And we manage to maintain a very strong NPS across most of our-- So the vast majority of the students are happy, the vast majority of the teachers are satisfied. 
+
+00:07:45,768 --> 00:08:18,008 [Yahya Bouhlel]
+These are some of the stories of our students. We have students that went from building their companies to working in data science careers. Today, because of the Choose event, we want to highlight two stories that are here with us. Mariem and Marouen, if you can join the floor here. These are some of the examples of the stories that we're going to publish in the next few days. These are some examples of the visits that we had. The project is highly impactful, for example. We had a board member from Mistral and the CTO of 
+
+00:08:19,148 --> 00:08:41,188 [Yahya Bouhlel]
+Alain in France visiting GoMyCode Touzer last year. Around these schools, we organized a lot of physical events, and we organized a lot of community events. These are tangible, concrete results, and we will be sharing a yearly report on the impact every year and on the numbers every year. 
+
+00:08:42,748 --> 00:08:45,437 [Yahya Bouhlel]
+One last clarification. This project is 
+
+00:08:46,628 --> 00:09:55,528 [Yahya Bouhlel]
+only funded by individual contributors. I named Karim Baghir, Khaled Halimi, Karim Jouini, Zohra, and Jay-Z Tunisia. These are the only people that supported and funded the project since 2024. This is a five years initiative to train 10,000 students. We're aiming for 1,800 to 2,000 students per year. We fundraised enough to get us to half the number of students to 4,800 students. We will work really hard to deliver the results and deliver these numbers in the next years, so we raise more and fund more students and make the platform more available. The funding here is based on a notion called impact funding. If you don't demonstrate impact, we cannot fundraise. It's very important for us to show concrete results. I'm really happy today to share with you the stories of two founders that went through the programs, that are building their own companies. We wanted specifically to feature entrepreneurs because this is also the culture of the initiative. Really excited to have Mariem and Marouen share with us their story and more about the narrative of Tatawin project. Thank you. 
+
+00:09:55,528 --> 00:10:25,768 [Mariem Dei]
+Thank you. [applaudissements] Bonjour, je m'appelle Mariem Dei. Je suis doctorante en design et j'ai suivi une formation en marketing digital avec GoMyCode. Cette formation m'a aidée dans le lancement de mon projet, Marsa Mariem. Il s'agit du premier espace culturel dans ma ville natale de Mnihalet, qui a pour objectif de démocratiser l'accès aux différentes pratiques artistiques dans la région. 
+
+00:10:27,008 --> 00:11:01,948 [Mariem Dei]
+Je travaille sur le projet pendant plusieurs années et l'année dernière, j'ai pu bénéficier d'un accompagnement et d'un financement au sein du programme Marwumin, qui est financé par le British Council. Aujourd'hui, grâce notamment à la formation en marketing digital, après plus d'un mois du lancement du projet, qui a été officiellement ouvert le 30 mai 2026, nous comptons plus de 40 participants actifs qui sont inscrits dans les différents ateliers de peinture, de bande dessinée et d'illustration. 
+
+00:11:03,568 --> 00:11:08,288 [Mariem Dei]
+Nous espérons pouvoir atteindre plus de personnes et aussi pouvoir 
+
+00:11:10,508 --> 00:11:11,428 [Mariem Dei]
+y fournir 
+
+00:11:12,608 --> 00:11:20,768 [Mariem Dei]
+progressivement d'autres ateliers dans d'autres formes artistiques. Merci. [applaudissements] 
+
+00:11:22,258 --> 00:12:01,388 [Marouen Montasser]
+Bonjour à tous. Honoré et très ravi d'être parmi vous aujourd'hui. Je suis Marouen Montasser, CEO et fondateur de Skyways Adventures. Skyways Adventures est une plateforme d'astrotourisme. Pour ceux qui ne s'y connaissent pas, l'astrotourisme, c'est quand on s'éloigne un peu de la ville, de la pollution lumineuse pour voir les phénomènes célestes, les étoiles, les galaxies. On organise des soirées d'observation astronomique, d'astrophotographie, astro-méditation, tout ce qui est bien-être. On est peut-être la seule startup en Tunisie qui apprécie un peu les coupures d'électricité nocturnes. [rire] C'est juste pour rigoler. 
+
+00:12:02,488 --> 00:12:13,468 [Marouen Montasser]
+C'est un projet que je mène avec beaucoup de passion, beaucoup d'amour. Je fais des études médicales, donc je mène la vie en mode difficile et j'essaye vraiment. 
+
+00:12:14,768 --> 00:12:34,192 [Marouen Montasser]
+C'est vraiment difficile d'avancer sans le partenariat, sans l'accompagnement de plusieurs structures On a eu la chance d'avoir un appui pour notre projet, que ce soit sur le volet accompagnement, sur le volet financier, par l'Union européenne, par Carthage Business Angels. J'ai vu monsieur Meer tout à l'heure. 
+
+00:12:35,312 --> 00:12:50,172 [Marouen Montasser]
+Il ne faut pas oublier le volet formation avec GoMyCode. Ça nous a permis de franchir un palier, surtout sur le volet communication et marketing digital. Je salue d'ailleurs mon mentor, Ahmed Ahmed, qui nous a beaucoup aidés. 
+
+00:12:51,692 --> 00:13:04,092 [Marouen Montasser]
+C'est une aventure magnifique et ça fait toujours plaisir d'avoir des partenaires qui croient en vous et qui vous accompagnent, surtout sur le volet formation. J'encourage tout le monde à collaborer avec GoMyCode. 
+
+00:13:06,192 --> 00:13:07,632 [Marouen Montasser]
+[applaudissements] 
+
+00:13:07,632 --> 00:13:17,092 [Yahya Bouhlel]
+Merci. I am super mindful of the time. Maybe, Karim, if you want to add last thing before we wrap up or we good. But one last thing I want to add, which is 
+
+01:13:18,792 --> 01:13:19,872 [Yahya Bouhlel]
+GoMyCode is clearly... 
+
+01:13:21,072 --> 01:13:56,612 [Yahya Bouhlel]
+We're doing our fair amount of work, but this is not enough. So training 10 000 students in the next five years is not enough, is never enough. This is obviously the whole ecosystem needs to work, needs to provide concrete solution. And GoMyCode also, this is what we do, is not necessarily a magic solution. This is a booster. This is a way for people to find opportunities. This is a way for people to find an alternative, but it's never enough without the support and without the backing of the full ecosystem. So we rely on companies, for example, to hire students. We rely on startup to support with events. 
+
+01:13:57,972 --> 01:14:20,352 [Yahya Bouhlel]
+This is not a one-person decision or one-person contribution. This is really for the ecosystem and really for our economy. And this is really important to out case here. And really excited to see the project the next five years. And maybe, Karim, you can add one last thing to wrap up the project. And we'll be sharing the yearly report every year also. 
+
+01:14:20,352 --> 01:14:38,112 [Karim Beguir]
+Oui, absolument. Bravo, c'est super de voir l'esprit entrepreneurial surtout, c'est ça qui compte le plus. Pour qu'on puisse faire avancer l'écosystème de la technologie, que l'économie tunisienne, il nous faut vraiment beaucoup plus d'entrepreneurs. 
+
+01:14:39,352 --> 01:15:35,712 [Karim Beguir]
+GoMyCode, c'est une manière d'inculquer cette culture. Ce n'est pas la seule. On travaille aussi avec d'autres partenaires au niveau éducatif et autres. Mais ce qui compte le plus, peut-être pour conclure, c'est d'avoir une culture du résultat. C'est très bien d'avoir des idées, mais comme on dit en anglais : « Ideas are cheap, acts are much harder. » Il faut agir, il faut mettre la main dans le cambouis. C'est comme ça qu'on va faire avancer notre pays. C'est grâce à des success stories comme les vôtres et surtout beaucoup d'autres. Il faut qu'on continue à avancer ensemble. C'est comme ça qu'on construit l'avenir pas à pas. Cette culture de partir de l'écosystème et construire plutôt que d'être trop top down, c'est vraiment une des clés du succès. Merci pour tous ceux qui ont soutenu ces initiatives. Et c'est, on l'espère, que le début. On espère encore beaucoup plus d'initiatives dans le futur. Et continuer à 
+
+01:15:36,892 --> 01:15:58,772 [Karim Beguir]
+donner des résultats, donner des rapports, donner un progrès et inspirer d'autres à se donner des objectifs quantitatifs précis pour pouvoir avancer. C'est ça, j'espère, ce qu'on va faire ensemble au Tunisia Global Forum, à cette édition, mais aussi aux suivantes. Merci beaucoup. [applaudissements] 
+
+01:16:25,532 --> 01:16:32,812 [Yahya Bouhlel]
+[bruit] 
+
+01:16:35,152 --> 01:16:36,332 [Marouen Montasser]
+No, on ne va pas bisous. 
+
+---
+
+### 📌 Session : DAR — Accompagner et transformer les envies de retour à horizon 1-2 ans (14h00–14h15)
+
+00:17:01,832 --> 00:17:31,732 [Beyram Belhaj Amor]
+Hello. Bonjour à tous. 
+
+00:17:34,772 --> 00:17:35,632 [Beyram Belhaj Amor]
+On va enchaîner. 
+
+00:17:36,932 --> 00:17:38,972 [Beyram Belhaj Amor]
+On va vous parler de l'initiative DAR. 
+
+00:17:40,232 --> 00:17:47,072 [Beyram Belhaj Amor]
+C'est une initiative qu'on a lancée, sur laquelle on est en train de travailler, c'est parfait, dans le cadre de la TUJ. 
+
+00:17:48,232 --> 00:17:52,492 [Beyram Belhaj Amor]
+C'est une initiative qui s'adresse aux TRE et je vais commencer par vous dire 
+
+00:17:53,532 --> 00:17:54,072 [Beyram Belhaj Amor]
+ce qu'elle n'est pas. 
+
+00:17:55,412 --> 00:18:00,952 [Beyram Belhaj Amor]
+Son objectif, ce n'est pas de convaincre des TRE pour entrer en Tunisie. Son objectif, c'est 
+
+00:18:02,252 --> 00:18:07,152 [Beyram Belhaj Amor]
+de permettre à ceux qui pensent à rentrer en Tunisie de se sentir moins seuls. 
+
+00:18:08,972 --> 00:18:12,252 [Beyram Belhaj Amor]
+Ceux qui se sentaient seuls, c'était nous, il y a 
+
+00:18:13,512 --> 00:18:21,612 [Beyram Belhaj Amor]
+à peu près sept mois. On a fait le saut, on a pris la décision de rentrer en Tunisie et on aimerait capitaliser dessus. 
+
+00:18:23,132 --> 00:18:26,932 [Beyram Belhaj Amor]
+Je suis Bayram Haj Amor, je suis consultant et entrepreneur.
+
+00:18:28,160 --> 00:18:33,560 [Sirine Ben Hassine]
+Je suis Sirine Ben Achour, cadre dans les télécoms et ancienne présidente d'ATU France. 
+
+00:18:34,860 --> 00:18:44,860 [Sirine Ben Hassine]
+Ensemble, avec Bayram, nous avons monté l'entreprise la plus ambitieuse qui soit, notre petite famille, puisque nous sommes les heureux parents de deux petites filles de quatre ans et un an. 
+
+00:18:47,180 --> 00:18:50,660 [Sirine Ben Hassine]
+Aujourd'hui, nous sommes là pour vous parler de notre expérience de DAAHR. 
+
+00:18:51,980 --> 00:18:59,140 [Sirine Ben Hassine]
+Il y a sept mois, on a pris bagages, enfants et nous avons décidé de revenir en Tunisie après plusieurs années en France. 
+
+00:19:01,320 --> 00:19:16,400 [Sirine Ben Hassine]
+Ce qui est important à noter, c'est que pendant nos recherches pour le retour, on s'est posé des milliers de questions. Répondre à ces questions relevait vraiment du parcours du combattant. 
+
+00:19:18,300 --> 00:19:29,280 [Sirine Ben Hassine]
+Aujourd'hui, on veut vous parler de l'histoire de notre retour parce qu'elle nous a inspiré quelque chose. Si on passe au slide suivant. 
+
+00:19:35,980 --> 00:20:20,160 [Sirine Ben Hassine]
+Ce que nous avons noté et qui est important à savoir, c'est que nous ne sommes pas seuls à avoir fait le choix du retour. Une étude récente de l'ATUJ a montré que 20 % des TRE pensent au retour, ont un projet concret, aimeraient revenir en Tunisie. 21 % ont un projet sans délai concret, mais ils aimeraient bien un jour revenir en Tunisie. On ne va pas s'adresser à tous les TRE, bien entendu, mais on va s'adresser à ces quelques milliers ou quelques dizaines de milliers de TRE qui expriment cette volonté de retour et leur dire : « Effectivement, vous n'êtes pas seuls, arrêtez de planifier votre projet seuls. 
+
+00:20:21,240 --> 00:20:24,260 [Sirine Ben Hassine]
+» C'est pour ça, si on peut passer au slide suivant, 
+
+00:20:25,540 --> 00:20:26,180 [Sirine Ben Hassine]
+que nous avons 
+
+00:20:27,300 --> 00:20:32,760 [Sirine Ben Hassine]
+souhaité capitaliser sur notre expérience pour créer le projet DAAHR dans le cadre de l'ATUJ. 
+
+00:20:33,820 --> 00:20:54,180 [Sirine Ben Hassine]
+L'initiative DAAHR, c'est Diaspora Advisory for Return et DAAHR, c'est la maison. Parce que même si on est des optimistes réalistes avec mon mari, on est conscients des difficultés du pays, mais on est convaincus aussi qu'on peut offrir un avenir radieux à nos enfants en étant chez nous. 
+
+00:20:55,340 --> 00:20:59,120 [Sirine Ben Hassine]
+Nous avons souhaité appeler cette initiative DAAHR parce qu'on est à la maison. 
+
+00:21:04,640 --> 00:21:05,420 [Beyram Belhaj Amor]
+OK, parfait. 
+
+00:21:07,260 --> 00:21:13,180 [Beyram Belhaj Amor]
+Première étape, on a essayé de structurer toute la réflexion. On a discuté avec 
+
+01:21:14,200 --> 01:21:16,840 [Beyram Belhaj Amor]
+plein de personnes qui sont dans notre situation. 
+
+01:21:21,660 --> 01:21:27,159 [Beyram Belhaj Amor]
+Le premier résultat, à ce stade en tout cas, c'est ça. 
+
+01:21:28,800 --> 01:21:56,180 [Beyram Belhaj Amor]
+L'objectif, c'est de permettre aux personnes qui sont intéressées par le retour de s'informer. Ça, c'est un point très important. Je ne vais pas citer le nombre de sites internet de l'administration sur lesquels je suis allé, où il n'y avait pas d'informations à jour. L'objectif principal, c'est d'avoir une information complète, une information à jour et une information facilement accessible. Et l'IA va nous permettre de faire des choses très intéressantes par rapport à ça. 
+
+01:21:57,240 --> 01:22:09,680 [Beyram Belhaj Amor]
+Systématiquement, nous, dans notre réflexion, on a essayé d'avoir l'angle pro, professionnel, très important, mais l'angle perso aussi. Quand on parle pro, il y a tout un schéma 
+
+01:22:10,780 --> 01:22:19,300 [Beyram Belhaj Amor]
+à définir par rapport à ce qu'on va faire en termes d'emploi, c'est quoi les impacts en termes de fiscalité, etc. Sur le plan perso, il faut aussi 
+
+01:22:20,640 --> 01:22:25,940 [Beyram Belhaj Amor]
+être réaliste, comprendre que toutes les écoles ne se valent pas. 
+
+01:22:27,020 --> 01:22:54,680 [Beyram Belhaj Amor]
+Il faut dire les choses comme ça. Il y a des choix à faire, parfois, qui ne sont pas évidents, mais l'expérience existe, elle est là et il faut trouver le moyen d'y accéder. Deuxième volet, c'est être connecté et inspiré. C'est un peu ce qu'on fait déjà, mais de manière informelle. Là, en discutant un peu autour avec ce badge qui parle de l'initiative DAAHR, j'ai pu trouver plein de personnes qui s'intéressent à 
+
+01:22:55,940 --> 01:23:09,920 [Beyram Belhaj Amor]
+notre expérience, comment ça s'est passé pour nous. Parce que quand on parle d'information, ce n'est pas uniquement les textes de loi rigides, c'est aussi une application des textes de loi, ce sont des choix qu'il faut faire en connaissance de cause. 
+
+01:23:11,940 --> 01:23:13,840 [Beyram Belhaj Amor]
+Dernier point, c'est être accompagné. 
+
+01:23:15,140 --> 01:23:20,760 [Beyram Belhaj Amor]
+Les deux premiers points, c'est de l'information. 
+
+01:23:21,880 --> 01:23:25,460 [Beyram Belhaj Amor]
+Il n'y a rien d'engageant dedans. On peut partager 
+
+01:23:26,800 --> 01:23:41,100 [Beyram Belhaj Amor]
+des expériences, mais dès qu'il s'agit de prendre de vraies décisions, une vraie décision de retour, il faut impliquer des experts pour dire : « C'est ça l'impact fiscal, c'est ça l'impact par rapport à la loi de change, etc. » 
+
+01:23:43,020 --> 01:23:46,460 [Beyram Belhaj Amor]
+C'est tout un programme sur plusieurs volets. 
+
+01:23:47,880 --> 01:23:52,420 [Beyram Belhaj Amor]
+Ce qu'on essaie de faire, en tout cas en ce moment, ce qu'on a lancé, c'est un socle 
+
+01:23:53,940 --> 01:24:03,380 [Beyram Belhaj Amor]
+digital. Ça, c'est le lien avec le thème de ce forum. L'utilisation de l'IA générative et agentique pour permettre à 
+
+01:24:04,400 --> 01:24:05,500 [Beyram Belhaj Amor]
+n'importe qui, qui 
+
+01:24:06,660 --> 01:24:09,600 [Beyram Belhaj Amor]
+se connecte sur une plateforme, d'être informé, 
+
+01:24:10,660 --> 01:24:12,560 [Beyram Belhaj Amor]
+d'être connecté et d'être accompagné. 
+
+01:24:14,460 --> 01:24:31,880 [Beyram Belhaj Amor]
+On va vous montrer très rapidement à quoi ça ressemblerait. Ça, c'est juste un prototype. Je vais vous montrer à quoi ça va ressembler. 
+
+01:24:33,380 --> 01:24:51,120 [Sirine Ben Hassine]
+Côté régie, si on peut lancer la vidéo. 
+
+01:24:59,700 --> 01:25:04,080 [Beyram Belhaj Amor]
+Il y a une vidéo, mais sinon, je vais faire appel à votre imagination si ça ne marche pas. 
+
+01:25:11,640 --> 01:25:15,800 [Beyram Belhaj Amor]
+En deux mots, il s'agit d'une plateforme où 
+
+01:25:17,000 --> 01:25:17,800 [Beyram Belhaj Amor]
+on essaie d'abord 
+
+01:25:19,500 --> 01:25:22,750 [Beyram Belhaj Amor]
+de permettre à n'importe qui, à un TRE. 
+
+01:25:24,180 --> 01:25:34,240 [Beyram Belhaj Amor]
+Ça peut être quelqu'un qui veut tout simplement se renseigner. Ça peut être quelqu'un qui a déjà un plan très clair sur les six prochains mois ou sur
+
+---
 ## 🔍 Analyse
 > Généré avec le [[Prompt d'analyse TGF AI Brain]] — statut: analysé.
 
 ### Résumé exécutif
 La session aborde la structuration de l'écosystème IA sous trois angles. Marouane Kessentini (GVSU) défend une université de "cinquième âge" centrée sur l'expansion du potentiel humain et la convergence pérenne avec l'industrie. Khaled Bouzid (DGFiP) partage la doctrine française d'industrialisation de l'IA publique, misant sur la souveraineté open source et une stricte frugalité matérielle. Le panel final souligne que la réussite des startups tunisiennes IA exige une projection internationale dès le premier jour, une exécution ultra-rapide avant même la finalisation du produit, et la patience face à la temporalité des cycles de financement locaux, tout en soulevant les contraintes urgentes d'infrastructure (énergie, devises).
 
+Cette dynamique d'exécution concrète est illustrée par deux initiatives d'impact. Le « Project Tatooine » (GoMyCode & InstaDeep) démontre la viabilité de la formation massive à l'IA dans les régions défavorisées de Tunisie, financée par l'« impact funding », avec 1839 étudiants formés en 2025 et des résultats mesurables d'employabilité. En parallèle, l'initiative DAR (portée par l'ATUGE) s'attaque à l'isolement de la diaspora tunisienne souhaitant rentrer au pays (environ 40 % des TRE selon l'ATUGE) en concevant une plateforme d'IA générative et agentique pour informer, connecter et accompagner individuellement les projets de retour.
+
 ### Notions
 - [[Fifth age university]] — Le stade d'évolution de l'université à l'ère de l'intelligence artificielle, centré sur l'augmentation des capacités humaines.
 - [[Convergence université-industrie]] — Un engagement durable de collaboration pluriannuelle sur des problèmes complexes, dépassant le simple partenariat ponctuel.
 - [[Frugalité d'infrastructure]] — Principe de mutualisation et d'optimisation des ressources matérielles (GPU) pour éviter la fragmentation et le gaspillage énergétique.
 - [[Logique de temporalité]] — Le délai incompressible de maturation d'un écosystème entre la création de startups et l'émergence d'acteurs d'envergure mondiale nécessitant des relais de financement.
+- [[Impact funding]] — Modèle de financement conditionné par la démonstration systématique et documentée de résultats réels (outcomes) sur les bénéficiaires.
 
 ### Phrases clés
 - « ...because in the age of AI, what is important for society is expanding the human potential. » — [[Marouane Kessentini]] (00:00:41)
@@ -988,17 +1275,28 @@ La session aborde la structuration de l'écosystème IA sous trois angles. Marou
 - « La plus grande valeur, IA ou pas IA, c'est de résoudre des vrais problèmes Pour des vrais clients qui sont prêts à payer et que ce qu'ils sont prêts à payer soit rentable à l'échelle. » — [[Karim Jouini]] (00:54:31)
 - « Ce n'est plus le modèle qui est l'avantage concurrentiel, c'est plutôt l'architecture d'agents » — [[Seddik Houimli]] (00:57:29)
 - « Ce que nous pouvons faire, c'est d'aller plus vers la partie d'investissement la moins adressable possible par les investisseurs privés pour essayer d'agrandir au maximum la taille du funnel à l'entrée. » — [[Tarek Triki]] (01:00:40)
+- « L'éducation à l'âge de l'IA, c'est une nécessité absolue. Les systèmes d'IA sont tellement puissants que si on forme nos jeunes à savoir les utiliser, ils peuvent littéralement construire l'avenir » — [[Karim Beguir]] (00:00:39)
+- « The funding here is based on a notion called impact funding. If you don't demonstrate impact, we cannot fundraise. » — [[Yahya Bouhlel]] (00:08:42)
+- « Cette culture de partir de l'écosystème et construire plutôt que d'être trop top down, c'est vraiment une des clés du succès. » — [[Karim Beguir]] (00:14:39)
+- « L'utilisation de l'IA générative et agentique pour permettre à n'importe qui, qui se connecte sur une plateforme, d'être informé, d'être connecté et d'être accompagné. » — [[Beyram Belhaj Amor]] (00:23:53)
 
 ### Citations mémorables
 - « On ne peut pas ne pas maîtriser notre SI. On ne veut pas ne pas maîtriser notre SI. C'est très important, c'est le « On ne veut pas ne pas maîtriser notre SI ». » — [[Khaled Bouzid]] ([[Citation - Ne pas subir son système d'information]]) · ⏱ 00:22:05
 - « Avec le même LLM, différentes entreprises vont faire des choses différentes parce qu'il y a une question de vitesse d'exécution, d'accès au marché, de secteur, de 1000 choses. Donc le LLM, c'est de plus en plus un détail dans toute cette machine. » — [[Karim Jouini]] ([[Citation - Le LLM est devenu un détail]]) · ⏱ 01:05:39
 - « Nous, on a amélioré l'écosystème et maintenant, on est 30 mètres sous l'eau. Tu meurs quand même à 30 mètres sous l'eau » — [[Karim Jouini]] ([[Citation - Mourir à 30 mètres sous l'eau]]) · ⏱ 01:06:38
+- « C'est très bien d'avoir des idées, mais comme on dit en anglais : « Ideas are cheap, acts are much harder. » Il faut agir, il faut mettre la main dans le cambouis. » — [[Karim Beguir]] ([[Citation - Ideas are cheap, acts are harder]]) · ⏱ 00:14:39
+- « L'éducation à l'âge de l'IA, c'est une nécessité absolue. Les systèmes d'IA sont tellement puissants que si on forme nos jeunes à savoir les utiliser, ils peuvent littéralement construire l'avenir » — [[Karim Beguir]] ([[Citation - L'éducation à l'âge de l'IA]]) · ⏱ 00:00:39
+- « Son objectif, ce n'est pas de convaincre des TRE pour entrer en Tunisie. Son objectif, c'est de permettre à ceux qui pensent à rentrer en Tunisie de se sentir moins seuls. » — [[Beyram Belhaj Amor]] ([[Citation - Accompagner plutôt que convaincre au retour]]) · ⏱ 00:17:48
 
 ### Chiffres & faits
 - **95 000 agents et 1400 applications** : Taille et échelle d'infrastructure de la DGFiP française, gérant un développement maîtrisé en local. — [[Khaled Bouzid]] (00:20:34)
 - **30 000 agents formés** : Nombre de personnels de la DGFiP formés à l'IA générative durant le premier semestre 2026. — [[Khaled Bouzid]] (00:25:12)
 - **1/10 des startups labellisées** : Les 120 startups IA tunisiennes représentent environ un dixième de l'écosystème total de startups labellisées (estimé à 1200). — [[Tarek Triki]] (01:11:47)
 - **3 jours de développement perdus** : Impact direct des interruptions d'électricité en Tunisie sur le travail technique des startups IA. — [[Seddik Houimli]] (01:08:32)
+- **Objectif de 10 000 jeunes** : Cible globale de formation du Project Tatooine sur l'ensemble du territoire tunisien. — [[Karim Beguir]] (00:00:00)
+- **1839 étudiants formés en 2025** : Volume d'étudiants ayant bénéficié d'un financement complet en bourse via le Project Tatooine. — [[Yahya Bouhlel]] (00:02:43)
+- **568 USD par issue de carrière positive** : Coût unitaire par étudiant ayant débouché sur un emploi, freelance ou stage documenté, générant un effet multiplicateur estimé à 7,5 fois la mise sur 12 mois. — [[Yahya Bouhlel]] (00:05:13)
+- **20 % des TRE envisagent activement le retour** : Proportion de Tunisiens résidant à l'étranger ayant un projet de retour concret, complétée par 21 % de projets sans délai précis (soit plus de 40 % de volontés de retour). — [[Sirine Ben Hassine]] (00:19:35)
 
 ### Recommandations & actions
 - **Congés sabbatiques industriels** : Mettre en place des programmes d'immersion d'été pour les professeurs d'université au sein des entreprises afin d'identifier des problèmes réels et de réaligner l'enseignement. — [[Marouane Kessentini]] (00:14:31)
@@ -1006,6 +1304,9 @@ La session aborde la structuration de l'écosystème IA sous trois angles. Marou
 - **Granularité du financement** : Créer des véhicules d'investissement publics et privés plus segmentés à l'entrée du funnel pour élargir l'écosystème de startups. — [[Tarek Triki]] (01:00:59)
 - **Internationalisation immédiate** : Les startups IA tunisiennes doivent cibler le marché mondial dès le premier jour, le marché local ou régional n'offrant pas la profondeur requise par les investisseurs. — [[Tariq Chleifa]] (01:03:58)
 - **Commercialisation anticipée** : Se confronter au marché et vendre le produit le plus tôt possible, voire avant sa finalisation, pour pivoter selon les besoins réels des clients. — [[Karim Jouini]] (01:07:31)
+- **Intégrer pleinement les entreprises et les startups dans la démarche éducative** pour embaucher les diplômés et soutenir les événements régionaux. (Porteur : L'écosystème technologique et entrepreneurial) — [[Yahya Bouhlel]] (00:13:21)
+- **Inculquer et promouvoir massivement une culture axée sur la création d'entreprises et le résultat** pour transformer l'économie tunisienne. (Porteur : L'écosystème technologique) — [[Karim Beguir]] (00:14:20)
+- **Déployer des agents d'IA générative pour centraliser et rendre accessibles les informations administratives** aux talents de la diaspora. (Porteur : Initiative DAR / ATUGE) — [[Beyram Belhaj Amor]] (00:23:53)
 
 ### Questions ouvertes
 - Avec quels partenaires internationaux la Tunisie et ses entreprises doivent-elles s'allier pour sécuriser l'accès aux LLMs de pointe à l'ère des restrictions d'exportation technologiques ? (00:55:46)

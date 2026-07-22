@@ -14,3 +14,10 @@ organisation: "GoMyCode"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Talents & Transformations]]
 - [[Écosystème Startups]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Inspire]]
+
+<!-- TGF-AUTO-LINKS:END -->

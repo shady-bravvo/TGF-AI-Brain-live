@@ -13,3 +13,10 @@ organisation: "ATUGE"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[ATUGE]]
 - [[Diaspora tunisienne]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Inspire]]
+
+<!-- TGF-AUTO-LINKS:END -->
