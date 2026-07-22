@@ -33,6 +33,6 @@ En janvier 2025, il co-fonde avec Jihed Othmani Thunders.ai (initialement Thunde
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Fondations IA]] · [[Transcript - Talk Inspire]]
-**Citations :** [[Citation - Le LLM est devenu un détail]] · [[Citation - Les bas salaires bloquent la digitalisation]] · [[Citation - Mourir à 30 mètres sous l'eau]]
+**Citations :** [[Citation - Cinquante ans de taux de change]] · [[Citation - Le LLM est devenu un détail]] · [[Citation - Les bas salaires bloquent la digitalisation]] · [[Citation - Mourir à 30 mètres sous l'eau]] · [[Citation - Nos amis européens, nos amis chinois]]
 
 <!-- TGF-AUTO-LINKS:END -->

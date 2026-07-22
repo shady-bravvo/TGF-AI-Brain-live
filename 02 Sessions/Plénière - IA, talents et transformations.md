@@ -29,6 +29,6 @@ Former et attirer les meilleurs talents de l'IA. Accompagner les transformations
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Talents]]
-**Citations :** [[Citation - Contrôle et fondamentaux]] · [[Citation - Perdre la courbe d'apprentissage]] · [[Citation - Plus vite, pas mieux]] · [[Citation - Quoi enseigner sur l'IA]]
+**Citations :** [[Citation - Ahna Tunis hokara]] · [[Citation - Cinquante ans de taux de change]] · [[Citation - Contrôle et fondamentaux]] · [[Citation - Désolé, pour le pognon]] · [[Citation - L'IA réduit les coûts humains]] · [[Citation - Perdre la courbe d'apprentissage]] · [[Citation - Plus vite, pas mieux]] · [[Citation - Quatre ans]] · [[Citation - Quoi enseigner sur l'IA]]
 
 <!-- TGF-AUTO-LINKS:END -->

@@ -14,7 +14,7 @@ Sessions : [[Talk Inspire - Scaling our startups ecosystem]] · [[AI Startups Aw
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Innovate]] · [[Transcript - Talk Inspire]]
-**Citations :** [[Citation - Circulation permanente des talents]] · [[Citation - Dynamique sans écosystème]] · [[Citation - Ideas are cheap, acts are harder]]
+**Citations :** [[Citation - Ahna Tunis hokara]] · [[Citation - Circulation permanente des talents]] · [[Citation - Dynamique sans écosystème]] · [[Citation - Ideas are cheap, acts are harder]]
 **Notions :** [[Corporate Venture Capital (CVC)]] · [[Impact funding]] · [[Logique de temporalité]]
 
 <!-- TGF-AUTO-LINKS:END -->

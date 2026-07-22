@@ -27,5 +27,6 @@ lieu: "[[Espace Dhiyefa]]"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Innovate]]
+**Citations :** [[Citation - Les chercheurs milliardaires]]
 
 <!-- TGF-AUTO-LINKS:END -->

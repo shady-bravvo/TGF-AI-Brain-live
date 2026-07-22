@@ -19,7 +19,7 @@ organisation: "HEC Paris"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Talents]]
-**Citations :** [[Citation - Contrôle et fondamentaux]]
+**Citations :** [[Citation - Contrôle et fondamentaux]] · [[Citation - Quatre ans]]
 **Notions :** [[Thèse CIFRE (Partenariat industrie-laboratoire)]]
 
 <!-- TGF-AUTO-LINKS:END -->

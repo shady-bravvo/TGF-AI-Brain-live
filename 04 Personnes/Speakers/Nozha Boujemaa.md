@@ -31,5 +31,6 @@ Docteure et HDR en informatique, Nozha Boujemaa a mené une carrière de recherc
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Fondations IA]]
+**Citations :** [[Citation - Les talents sont à l'export]]
 
 <!-- TGF-AUTO-LINKS:END -->

@@ -13,3 +13,10 @@ lieu: "[[Salle Carthage]]"
 - [[Badreddine Ouali]] — Chairman [[Vermeg]] & [[Fondation Tunisie pour le Développement]]
 
 Suit la [[Cérémonie d'ouverture TGF 2026]], précède la [[Plénière Stratégique - IA, opportunités et gouvernance|plénière « Bâtir aujourd'hui les fondations d'une IA créatrice de valeur »]].
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Citations :** [[Citation - La frontière de Carthage]]
+
+<!-- TGF-AUTO-LINKS:END -->
