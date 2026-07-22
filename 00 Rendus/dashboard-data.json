@@ -1,151 +1,187 @@
 {
   "edition": "Édition 2026",
-  "generatedAt": "17 juillet 2026 · 08:46",
+  "generatedAt": "22 juillet 2026 · 20:25",
   "vault": "TGF AI Brain by Bravvo",
   "kpis": [
     {
       "label": "Sessions captées",
-      "value": 1,
+      "value": 6,
       "unit": "",
-      "note": "sur 8 programmées"
+      "note": "clôture, Talk Impact et Awards manquants"
     },
     {
-      "label": "Intervenants suivis",
-      "value": 31,
+      "label": "Intervenants documentés",
+      "value": 42,
       "unit": "",
-      "note": "profils dans le vault"
+      "note": "fiches prise de parole"
     },
     {
-      "label": "Transcripts reçus",
-      "value": 1,
+      "label": "Notions structurées",
+      "value": 22,
       "unit": "",
-      "note": "dans le pipeline"
+      "note": ""
     },
     {
-      "label": "Transcripts analysés",
-      "value": 1,
+      "label": "Citations mémorables",
+      "value": 35,
       "unit": "",
-      "note": "traités par le brain"
+      "note": "#brut — relecture requise"
     },
     {
-      "label": "Citations retenues",
-      "value": 1,
+      "label": "Chiffres sourcés",
+      "value": 20,
       "unit": "",
-      "note": "verbatims marquants"
+      "note": "avec speaker + timecode"
     },
     {
-      "label": "Notions extraites",
-      "value": 1,
+      "label": "Controverses documentées",
+      "value": 12,
       "unit": "",
-      "note": "concepts structurés"
+      "note": ""
     },
     {
-      "label": "Insights",
-      "value": 0,
+      "label": "Enseignements (insights)",
+      "value": 10,
       "unit": "",
-      "note": "enseignements transverses"
+      "note": "01-05 reconstitués"
     },
     {
-      "label": "Synthèses",
-      "value": 0,
-      "unit": "",
-      "note": "par thème, validées"
+      "label": "Recommandations",
+      "value": 30,
+      "unit": "~",
+      "note": "voir Feuille de route"
     }
   ],
   "themes": [
     {
       "name": "Diaspora tunisienne",
-      "mentions": 30
-    },
-    {
-      "name": "IA & Souveraineté",
-      "mentions": 19
-    },
-    {
-      "name": "Talents & Transformations",
-      "mentions": 17
-    },
-    {
-      "name": "Recherche & Innovation",
-      "mentions": 16
-    },
-    {
-      "name": "Infrastructures numériques & énergétiques",
-      "mentions": 16
+      "mentions": 73
     },
     {
       "name": "Écosystème Startups",
-      "mentions": 14
+      "mentions": 67
+    },
+    {
+      "name": "Talents & Transformations",
+      "mentions": 63
+    },
+    {
+      "name": "Recherche & Innovation",
+      "mentions": 57
+    },
+    {
+      "name": "IA & Souveraineté",
+      "mentions": 41
+    },
+    {
+      "name": "Infrastructures numériques & énergétiques",
+      "mentions": 32
     },
     {
       "name": "Gouvernance & Éthique de l'IA",
-      "mentions": 13
+      "mentions": 27
     }
   ],
-  "insights": [],
+  "insights": [
+    "La souveraineté se construit, elle ne se proclame pas",
+    "Le soleil comme usine à calcul — à condition d'avoir un réseau",
+    "Diaspora : circulation permanente plutôt que retour",
+    "Le change et l'inertie réglementaire, verrou n°1",
+    "Le vrai danger : la courbe d'apprentissage volée",
+    "L'IA accélère, elle n'améliore pas en soi",
+    "L'adoption : un enjeu économique et organisationnel, pas technologique",
+    "Franchir la « vallée de la mort » labo → marché",
+    "L'innovation est un sport d'équipe",
+    "Choisir l'IA plutôt que la subir"
+  ],
   "sessions": [
     {
       "time": "08:30",
       "title": "Cérémonie d'ouverture TGF 2026",
       "room": "Salle Carthage",
-      "speakers": "",
-      "status": "upcoming"
+      "speakers": "Aloulou · ambassadeurs · Gharbi",
+      "status": "captured"
     },
     {
       "time": "09:15",
+      "title": "Keynote - Badreddine Ouali",
+      "room": "Salle Carthage",
+      "speakers": "Badreddine Ouali",
+      "status": "captured"
+    },
+    {
+      "time": "09:30",
       "title": "Plénière Stratégique - IA, opportunités et gouvernance",
       "room": "Salle Carthage",
-      "speakers": "",
-      "status": "done"
-    },
-    {
-      "time": "11",
-      "title": "Talk Inspire - Scaling our startups ecosystem",
-      "room": "Inspire Arena",
-      "speakers": "",
-      "status": "upcoming"
-    },
-    {
-      "time": "11",
-      "title": "Talk Innovate - Connecting Research, Entrepreneurship and Industry",
-      "room": "Innovate Arena",
-      "speakers": "",
-      "status": "upcoming"
+      "speakers": "Boujemaa · Haton · Beguir · Ben Gacem · Maalej · Jouini · Berjeb",
+      "status": "captured"
     },
     {
       "time": "11:00",
-      "title": "Plénière - IA, souverainetés, données et infrastructures",
-      "room": "Salle Carthage",
-      "speakers": "",
-      "status": "upcoming"
-    },
-    {
-      "time": "11",
-      "title": "Talk Impact - Fostering Diaspora impact",
-      "room": "Impact Arena",
-      "speakers": "",
-      "status": "upcoming"
-    },
-    {
-      "time": "12:30",
       "title": "Plénière - IA, talents et transformations",
       "room": "Salle Carthage",
-      "speakers": "",
-      "status": "upcoming"
+      "speakers": "Kamoun · Karboul · S. Jouini · Hajjaji · Fendri · Elloumi",
+      "status": "captured"
     },
     {
-      "time": "14",
+      "time": "11:00",
+      "title": "Talk Innovate",
+      "room": "Espace Dhiyefa",
+      "speakers": "2 panels (fin du panel 2 tronquée)",
+      "status": "captured"
+    },
+    {
+      "time": "11:00",
+      "title": "Talk Inspire (+ Tatooine + DAR)",
+      "room": "Espace Oya",
+      "speakers": "Kessentini · Bouzid · panel écosystème",
+      "status": "captured"
+    },
+    {
+      "time": "10:00",
+      "title": "Talk Impact & Awards",
+      "room": "Salles Limes & Leptis",
+      "speakers": "",
+      "status": "missing"
+    },
+    {
+      "time": "14:30",
       "title": "Cérémonie de clôture TGF 2026",
       "room": "Espace Oya",
-      "speakers": "",
-      "status": "upcoming"
+      "speakers": "Houas · Ferjani · Livre Blanc",
+      "status": "missing"
     }
   ],
   "quotes": [
     {
-      "text": "La question n'est pas de savoir si la Tunisie adoptera l'IA, mais si elle la subira ou la façonnera.",
-      "author": "Nozha Boujemaa",
-      "role": "Plénière Stratégique - IA, opportunités et gouvernance"
+      "text": "Est-ce qu'on va servir le café ou s'asseoir à la table de l'IA ?",
+      "author": "Badreddine Ouali",
+      "role": "Keynote — Cérémonie d'ouverture"
+    },
+    {
+      "text": "Un cluster GPU vaut plus que 10 ans de discours.",
+      "author": "Karim Beguir",
+      "role": "Plénière Stratégique"
+    },
+    {
+      "text": "La souveraineté, ce n'est pas un slogan. C'est quelque chose qui se construit.",
+      "author": "Amine Aloulou",
+      "role": "Cérémonie d'ouverture"
+    },
+    {
+      "text": "Le danger de l'IA, ce n'est pas qu'on va perdre le travail, c'est qu'on va perdre la learning curve.",
+      "author": "Amel Karboul",
+      "role": "Plénière Talents"
+    },
+    {
+      "text": "L'entrepreneur n'apparaît pas dans le contrat. Ça veut dire qu'il n'existe pas.",
+      "author": "Houda Ghozzi",
+      "role": "Talk Innovate"
+    },
+    {
+      "text": "On est 30 mètres sous l'eau. Tu meurs quand même à 30 mètres sous l'eau.",
+      "author": "Karim Jouini",
+      "role": "Panel Écosystème Startups"
     }
   ]
 }

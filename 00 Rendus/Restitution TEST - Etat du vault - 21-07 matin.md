@@ -175,7 +175,7 @@ perimetre: "Contenu réel du vault au 21/07 matin — 3 transcripts analysés"
 - [ ] **Toutes les citations sont `#brut`** — aucune n'est publiable avant relecture éditeur (`#verifie` → `#publie`, content freeze 14h).
 - [ ] **Dashboard périmé** : `dashboard-data.json` du 17/07 (« 1 session sur 8 ») ; relancer `generate_dashboard.py` et recaler le KPI « sessions programmées » sur les **20 créneaux** du programme final.
 - [ ] **URL du site + QR codes** toujours en attente (bloque le recap et la slide 7 du deck 15h).
-- [ ] Hygiène du graphe : le transcript de la plénière pointe vers `[[Tunisia Global Forum 2026]]` (lien cassé) au lieu de `[[TGF 2026 - Tunisia Global Forum]]` ; « The Dot Landing » et « Sylla » cités à l'ouverture n'ont pas encore de note.
+- [ ] Hygiène du graphe : le transcript de la plénière pointe vers `[[TGF 2026 - Tunisia Global Forum]]` (lien cassé) au lieu de `[[TGF 2026 - Tunisia Global Forum]]` ; « The Dot Landing » et « Sylla » cités à l'ouverture n'ont pas encore de note.
 - [ ] Le bloc « L'essentiel en 3 phrases » et « Qui fait quoi » ci-dessus sont des **v0 à faire valider** par l'éditeur avant insertion dans `Recap - TGF 2026.md`.
 
 ---

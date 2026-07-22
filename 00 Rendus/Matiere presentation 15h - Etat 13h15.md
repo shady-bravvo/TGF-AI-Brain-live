@@ -240,7 +240,7 @@ perimetre: "4 transcripts analysés — ouverture, keynote Ouali, Plénière Fon
 - [ ] **Sessions non captées** : Talk Inspire, Talk Impact, plénières Souverainetés et Talents, Awards, clôture — à intégrer au fil de l'eau.
 - [ ] **URL du site + QR codes** : toujours en attente (bloque le recap et la slide 7).
 - [ ] **Gabarits à remplir** : `Recap - TGF 2026.md` et `Feuille de route - TGF 2026.md` ont encore leurs zones `[À INSÉRER]` — ce document contient tout le nécessaire pour les remplir.
-- [ ] Hygiène du graphe : lien cassé `[[Tunisia Global Forum 2026]]` dans la plénière ; « The Dot Landing », « Sylla » et « SolCrypt » sans note dédiée.
+- [ ] Hygiène du graphe : lien cassé `[[TGF 2026 - Tunisia Global Forum]]` dans la plénière ; « The Dot Landing », « Sylla » et « SolCrypt » sans note dédiée.
 
 ---
 *Matière compilée par Cowork (Claude) le 21/07/2026 ~13h15 depuis le vault TGF-AI-BRAIN — 4 transcripts analysés, 10 notions, 13 citations. À valider par l'éditeur avant insertion dans les rendus officiels.*
