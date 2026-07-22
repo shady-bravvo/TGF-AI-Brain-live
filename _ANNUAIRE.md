@@ -141,7 +141,8 @@
 - [[Slim Khanfir]]
 - [[Tarak Bouacida]]
 
-## Organisations (70)
+## Organisations (74)
+- [[216 Capital]]
 - [[ATIA]]
 - [[ATUGE]]
 - [[AXA]]
@@ -163,6 +164,7 @@
 - [[Code Once]]
 - [[Coficab]]
 - [[Degla AI]]
+- [[DiasDev]]
 - [[Digihealth]]
 - [[ENSI]]
 - [[Expertise France]]
@@ -198,9 +200,11 @@
 - [[Solecrypt]]
 - [[Supplyzpro]]
 - [[Swisscontact]]
+- [[Sylla]]
 - [[Talan]]
 - [[Telehouse France]]
 - [[The Dot]]
+- [[The Dot Landing]]
 - [[Thunders.ai]]
 - [[Tunis International Bank]]
 - [[UBCI]]
