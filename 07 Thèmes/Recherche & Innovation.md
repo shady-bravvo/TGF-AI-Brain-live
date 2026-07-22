@@ -13,7 +13,7 @@ Sessions : [[Talk Innovate - Connecting Research, Entrepreneurship and Industry]
 <!-- TGF-AUTO-LINKS:START -->
 ## 🔗 Contenu du forum
 
-**Transcripts :** [[Transcript - Plénière Talents]] · [[Transcript - Talk Innovate]]
+**Transcripts :** [[Transcript - Plénière Talents]] · [[Transcript - Talk Innovate]] · [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - L'impasse de l'IA générative]] · [[Citation - Préparer l'avenir sans attendre]] · [[Citation - Stratégie IA et souveraineté de l'innovation]]
 **Notions :** [[Cycle de la recherche et innovation]] · [[IA agentique]] · [[Innovation as a team sport]] · [[Modèles du monde (Common sense)]] · [[Thèse CIFRE (Partenariat industrie-laboratoire)]] · [[Vallée de la mort]]
 

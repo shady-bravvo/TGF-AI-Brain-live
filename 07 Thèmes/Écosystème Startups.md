@@ -13,7 +13,7 @@ Sessions : [[Talk Inspire - Scaling our startups ecosystem]] · [[AI Startups Aw
 <!-- TGF-AUTO-LINKS:START -->
 ## 🔗 Contenu du forum
 
-**Transcripts :** [[Transcript - Talk Innovate]]
+**Transcripts :** [[Transcript - Talk Innovate]] · [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - Circulation permanente des talents]] · [[Citation - Dynamique sans écosystème]]
 **Notions :** [[Corporate Venture Capital (CVC)]]
 

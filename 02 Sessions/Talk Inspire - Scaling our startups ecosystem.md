@@ -22,3 +22,10 @@ Les pitchs des awards se tiennent désormais : [[AI Business Awards]] & [[AI Sta
 
 ## Thème
 [[Écosystème Startups]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Inspire]]
+
+<!-- TGF-AUTO-LINKS:END -->

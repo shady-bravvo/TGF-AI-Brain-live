@@ -237,13 +237,14 @@
 - [[Salle Leptis]]
 - [[Salle Limes]]
 
-## Notions (17)
+## Notions (18)
 - [[Capacité d'adaptation]]
 - [[Corporate Venture Capital (CVC)]]
 - [[Courbe d'apprentissage (Learning curve)]]
 - [[Cycle de la recherche et innovation]]
 - [[Dark factory]]
 - [[Entropie cognitive (Cognitive entropy)]]
+- [[Fifth age university]]
 - [[IA agentique]]
 - [[IA comme accélérateur d'inclusion]]
 - [[Innovation as a team sport]]
@@ -256,12 +257,13 @@
 - [[Vallée de la mort]]
 - [[Économie du Token]]
 
-## Transcripts (5)
+## Transcripts (6)
 - [[Transcript - Cérémonie d'ouverture]]
 - [[Transcript - Cérémonie d'ouverture - Keynote Badreddine Ouali]]
 - [[Transcript - Plénière Fondations IA]]
 - [[Transcript - Plénière Talents]]
 - [[Transcript - Talk Innovate]]
+- [[Transcript - Talk Inspire]]
 
 ## Citations (20)
 - [[Citation - Circulation permanente des talents]]

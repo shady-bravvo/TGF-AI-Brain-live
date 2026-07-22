@@ -13,3 +13,10 @@ organisation: "Supplyzpro"
 ## Connexions
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Écosystème Startups]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Inspire]]
+
+<!-- TGF-AUTO-LINKS:END -->

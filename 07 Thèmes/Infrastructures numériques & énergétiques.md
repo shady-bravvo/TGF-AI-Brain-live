@@ -13,6 +13,7 @@ Sessions : [[Plénière - IA, souverainetés, données et infrastructures]]
 <!-- TGF-AUTO-LINKS:START -->
 ## 🔗 Contenu du forum
 
+**Transcripts :** [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - Préparer l'avenir sans attendre]] · [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
 **Notions :** [[Liquid cooling]] · [[Économie du Token]]
 

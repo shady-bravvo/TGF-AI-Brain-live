@@ -32,7 +32,7 @@ En janvier 2025, il co-fonde avec Jihed Othmani Thunders.ai (initialement Thunde
 <!-- TGF-AUTO-LINKS:START -->
 ## 🔗 Contenu du forum
 
-**Transcripts :** [[Transcript - Plénière Fondations IA]]
+**Transcripts :** [[Transcript - Plénière Fondations IA]] · [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - Les bas salaires bloquent la digitalisation]]
 
 <!-- TGF-AUTO-LINKS:END -->

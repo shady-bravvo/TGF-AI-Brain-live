@@ -13,3 +13,10 @@ organisation: "Ministère des Finances"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[IA & Souveraineté]]
 - [[Gouvernance & Éthique de l'IA]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Inspire]]
+
+<!-- TGF-AUTO-LINKS:END -->

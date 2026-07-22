@@ -13,3 +13,10 @@ organisation: "Smart Capital"
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Smart Capital]]
 - [[Écosystème Startups]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Inspire]]
+
+<!-- TGF-AUTO-LINKS:END -->

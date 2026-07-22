@@ -27,3 +27,11 @@ Originaire de Tunisie, où il a grandi dans une famille modeste, Marouane Kessen
 - [[Diaspora tunisienne]]
 - [[Recherche & Innovation]]
 - [[Talents & Transformations]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Inspire]]
+**Notions :** [[Fifth age university]]
+
+<!-- TGF-AUTO-LINKS:END -->
