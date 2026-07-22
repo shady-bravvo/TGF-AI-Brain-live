@@ -33,6 +33,6 @@ En 2023, InstaDeep est rachetée par BioNTech pour 682 millions de dollars — l
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Fondations IA]] · [[Transcript - Talk Inspire]]
-**Citations :** [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
+**Citations :** [[Citation - Ideas are cheap, acts are harder]] · [[Citation - L'éducation à l'âge de l'IA]] · [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
 
 <!-- TGF-AUTO-LINKS:END -->

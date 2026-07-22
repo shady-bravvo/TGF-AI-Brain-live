@@ -19,5 +19,6 @@ organisation: "GoMyCode"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Inspire]]
+**Notions :** [[Impact funding]]
 
 <!-- TGF-AUTO-LINKS:END -->

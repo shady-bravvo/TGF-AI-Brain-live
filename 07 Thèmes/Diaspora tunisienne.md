@@ -16,7 +16,7 @@ Organisations : [[WATT]] · [[ATUGE]]
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Innovate]] · [[Transcript - Talk Inspire]]
-**Citations :** [[Citation - Circulation permanente des talents]]
+**Citations :** [[Citation - Accompagner plutôt que convaincre au retour]] · [[Citation - Circulation permanente des talents]]
 **Notions :** [[Innovation as a team sport]]
 
 <!-- TGF-AUTO-LINKS:END -->

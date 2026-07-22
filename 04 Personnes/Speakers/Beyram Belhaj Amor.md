@@ -18,5 +18,6 @@ organisation: "ATUGE"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Inspire]]
+**Citations :** [[Citation - Accompagner plutôt que convaincre au retour]]
 
 <!-- TGF-AUTO-LINKS:END -->

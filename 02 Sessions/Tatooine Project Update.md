@@ -15,3 +15,11 @@ lieu: "[[Espace Oya]]"
 
 ## Thèmes
 [[IA & Souveraineté]] · [[Talents & Transformations]] · [[Écosystème Startups]]
+
+<!-- TGF-AUTO-LINKS:START -->
+## 🔗 Contenu du forum
+
+**Transcripts :** [[Transcript - Talk Inspire]]
+**Citations :** [[Citation - Ideas are cheap, acts are harder]] · [[Citation - L'éducation à l'âge de l'IA]]
+
+<!-- TGF-AUTO-LINKS:END -->

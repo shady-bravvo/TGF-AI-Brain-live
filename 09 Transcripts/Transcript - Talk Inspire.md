@@ -1314,6 +1314,8 @@ Cette dynamique d'exécution concrète est illustrée par deux initiatives d'imp
 ### Connexions
 - [[TGF 2026 - Tunisia Global Forum]]
 - [[Talk Inspire - Scaling our startups ecosystem]]
+- [[Tatooine Project Update]]
+- [[DAR - Accompagner les envies de retour]]
 - [[Écosystème Startups]]
 - [[Talents & Transformations]]
 - [[Recherche & Innovation]]

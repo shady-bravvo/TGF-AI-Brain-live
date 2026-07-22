@@ -237,7 +237,7 @@
 - [[Salle Leptis]]
 - [[Salle Limes]]
 
-## Notions (21)
+## Notions (22)
 - [[Capacité d'adaptation]]
 - [[Convergence université-industrie]]
 - [[Corporate Venture Capital (CVC)]]
@@ -249,6 +249,7 @@
 - [[Frugalité d'infrastructure]]
 - [[IA agentique]]
 - [[IA comme accélérateur d'inclusion]]
+- [[Impact funding]]
 - [[Innovation as a team sport]]
 - [[Intelligence augmentée]]
 - [[Liquid cooling]]
@@ -268,17 +269,20 @@
 - [[Transcript - Talk Innovate]]
 - [[Transcript - Talk Inspire]]
 
-## Citations (23)
+## Citations (26)
+- [[Citation - Accompagner plutôt que convaincre au retour]]
 - [[Citation - Circulation permanente des talents]]
 - [[Citation - Contrôle et fondamentaux]]
 - [[Citation - De l'intelligence artificielle à l'intelligence augmentée]]
 - [[Citation - Dynamique sans écosystème]]
 - [[Citation - Définition du Bâtisseur]]
+- [[Citation - Ideas are cheap, acts are harder]]
 - [[Citation - Innovation as a team sport]]
 - [[Citation - L'IA n'est pas un problème technologique]]
 - [[Citation - L'IA pour rattraper la fracture régionale]]
 - [[Citation - L'entrepreneur effacé des contrats]]
 - [[Citation - L'impasse de l'IA générative]]
+- [[Citation - L'éducation à l'âge de l'IA]]
 - [[Citation - La souveraineté se construit]]
 - [[Citation - Le LLM est devenu un détail]]
 - [[Citation - Les bas salaires bloquent la digitalisation]]
