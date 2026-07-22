@@ -29,5 +29,6 @@ Nejia Gharbi est une haute dirigeante du secteur public financier tunisien. Elle
 
 **Transcripts :** [[Transcript - Cérémonie d'ouverture]]
 **Citations :** [[Citation - Circulation permanente des talents]]
+**Synthèses :** [[Insight - 03 - Diaspora, circulation plutôt que retour]] · [[Insight - 10 - Choisir l'IA plutôt que la subir]]
 
 <!-- TGF-AUTO-LINKS:END -->

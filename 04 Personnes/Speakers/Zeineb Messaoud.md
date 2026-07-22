@@ -33,5 +33,6 @@ Basée à Tunis et diplômée de l'IHEC Carthage, Zeineb Messaoud compte plus de
 **Transcripts :** [[Transcript - Talk Innovate]]
 **Citations :** [[Citation - Dynamique sans écosystème]]
 **Notions :** [[Corporate Venture Capital (CVC)]]
+**Synthèses :** [[Insight - 08 - Franchir la vallée de la mort]]
 
 <!-- TGF-AUTO-LINKS:END -->

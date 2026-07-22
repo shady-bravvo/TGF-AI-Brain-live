@@ -18,5 +18,6 @@ Organisations : [[WATT]] · [[ATUGE]]
 **Transcripts :** [[Transcript - Talk Innovate]] · [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - Accompagner plutôt que convaincre au retour]] · [[Citation - Circulation permanente des talents]] · [[Citation - Désolé, pour le pognon]]
 **Notions :** [[Innovation as a team sport]]
+**Synthèses :** [[Insight - 03 - Diaspora, circulation plutôt que retour]]
 
 <!-- TGF-AUTO-LINKS:END -->

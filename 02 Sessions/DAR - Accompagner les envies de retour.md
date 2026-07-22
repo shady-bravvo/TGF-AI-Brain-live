@@ -22,5 +22,6 @@ lieu: "[[Espace Oya]]"
 
 **Transcripts :** [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - Accompagner plutôt que convaincre au retour]]
+**Synthèses :** [[Insight - 03 - Diaspora, circulation plutôt que retour]]
 
 <!-- TGF-AUTO-LINKS:END -->

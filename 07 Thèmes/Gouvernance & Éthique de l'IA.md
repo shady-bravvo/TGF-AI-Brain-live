@@ -14,5 +14,6 @@ Sessions : [[Plénière Stratégique - IA, opportunités et gouvernance]] · [[L
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Plénière Fondations IA]]
+**Synthèses :** [[Insight - 04 - Le verrou réglementaire avant le verrou technologique]] · [[Insight - 10 - Choisir l'IA plutôt que la subir]]
 
 <!-- TGF-AUTO-LINKS:END -->

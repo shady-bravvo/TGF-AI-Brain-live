@@ -16,5 +16,6 @@ Voir : [[Comité d'organisation TGF 2026]]
 **Transcripts :** [[Transcript - Cérémonie d'ouverture]]
 **Citations :** [[Citation - La souveraineté se construit]] · [[Citation - Ne pas subir l'IA]] · [[Citation - Préparer l'avenir sans attendre]]
 **Notions :** [[Souveraineté (capacitaire)]]
+**Synthèses :** [[Insight - 01 - Souveraineté, une construction pas un slogan]] · [[Insight - 10 - Choisir l'IA plutôt que la subir]]
 
 <!-- TGF-AUTO-LINKS:END -->

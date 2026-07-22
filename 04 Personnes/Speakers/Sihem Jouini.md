@@ -21,5 +21,6 @@ organisation: "HEC Paris"
 **Transcripts :** [[Transcript - Plénière Talents]]
 **Citations :** [[Citation - Contrôle et fondamentaux]] · [[Citation - Quatre ans]]
 **Notions :** [[Thèse CIFRE (Partenariat industrie-laboratoire)]]
+**Synthèses :** [[Insight - 05 - La courbe d'apprentissage volée]] · [[Insight - 06 - L'IA accélère, elle n'améliore pas en soi]]
 
 <!-- TGF-AUTO-LINKS:END -->

@@ -20,5 +20,6 @@ organisation: "The Education Outcomes Fund"
 **Transcripts :** [[Transcript - Plénière Talents]]
 **Citations :** [[Citation - Ahna Tunis hokara]] · [[Citation - Perdre la courbe d'apprentissage]] · [[Citation - Quoi enseigner sur l'IA]]
 **Notions :** [[Courbe d'apprentissage (Learning curve)]] · [[Entropie cognitive (Cognitive entropy)]]
+**Synthèses :** [[Insight - 04 - Le verrou réglementaire avant le verrou technologique]] · [[Insight - 05 - La courbe d'apprentissage volée]] · [[Insight - 10 - Choisir l'IA plutôt que la subir]]
 
 <!-- TGF-AUTO-LINKS:END -->

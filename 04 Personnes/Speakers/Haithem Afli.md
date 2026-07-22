@@ -20,5 +20,6 @@ organisation: "Munster Technological University"
 **Transcripts :** [[Transcript - Talk Innovate]]
 **Citations :** [[Citation - Innovation as a team sport]]
 **Notions :** [[Innovation as a team sport]]
+**Synthèses :** [[Insight - 09 - L'innovation est un sport d'équipe]]
 
 <!-- TGF-AUTO-LINKS:END -->

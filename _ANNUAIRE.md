@@ -306,3 +306,15 @@
 - [[Citation - Stratégie IA et souveraineté de l'innovation]]
 - [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
 
+## Synthèses (10)
+- [[Insight - 01 - Souveraineté, une construction pas un slogan]]
+- [[Insight - 02 - Le soleil comme usine à calcul]]
+- [[Insight - 03 - Diaspora, circulation plutôt que retour]]
+- [[Insight - 04 - Le verrou réglementaire avant le verrou technologique]]
+- [[Insight - 05 - La courbe d'apprentissage volée]]
+- [[Insight - 06 - L'IA accélère, elle n'améliore pas en soi]]
+- [[Insight - 07 - Un enjeu économique et organisationnel, pas technologique]]
+- [[Insight - 08 - Franchir la vallée de la mort]]
+- [[Insight - 09 - L'innovation est un sport d'équipe]]
+- [[Insight - 10 - Choisir l'IA plutôt que la subir]]
+
