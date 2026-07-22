@@ -15,6 +15,6 @@ Sessions : [[Plénière - IA, souverainetés, données et infrastructures]]
 
 **Transcripts :** [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - Préparer l'avenir sans attendre]] · [[Citation - Un cluster GPU vaut plus que 10 ans de discours]]
-**Notions :** [[Liquid cooling]] · [[Économie du Token]]
+**Notions :** [[Frugalité d'infrastructure]] · [[Liquid cooling]] · [[Économie du Token]]
 
 <!-- TGF-AUTO-LINKS:END -->

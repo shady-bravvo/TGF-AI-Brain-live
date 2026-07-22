@@ -18,5 +18,7 @@ organisation: "Ministère des Finances"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Inspire]]
+**Citations :** [[Citation - Ne pas subir son système d'information]]
+**Notions :** [[Frugalité d'infrastructure]]
 
 <!-- TGF-AUTO-LINKS:END -->

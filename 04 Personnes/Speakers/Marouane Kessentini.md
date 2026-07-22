@@ -32,6 +32,6 @@ Originaire de Tunisie, où il a grandi dans une famille modeste, Marouane Kessen
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Inspire]]
-**Notions :** [[Fifth age university]]
+**Notions :** [[Convergence université-industrie]] · [[Fifth age university]]
 
 <!-- TGF-AUTO-LINKS:END -->

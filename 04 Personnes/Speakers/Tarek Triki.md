@@ -18,5 +18,6 @@ organisation: "Smart Capital"
 ## 🔗 Contenu du forum
 
 **Transcripts :** [[Transcript - Talk Inspire]]
+**Notions :** [[Logique de temporalité]]
 
 <!-- TGF-AUTO-LINKS:END -->

@@ -237,19 +237,22 @@
 - [[Salle Leptis]]
 - [[Salle Limes]]
 
-## Notions (18)
+## Notions (21)
 - [[Capacité d'adaptation]]
+- [[Convergence université-industrie]]
 - [[Corporate Venture Capital (CVC)]]
 - [[Courbe d'apprentissage (Learning curve)]]
 - [[Cycle de la recherche et innovation]]
 - [[Dark factory]]
 - [[Entropie cognitive (Cognitive entropy)]]
 - [[Fifth age university]]
+- [[Frugalité d'infrastructure]]
 - [[IA agentique]]
 - [[IA comme accélérateur d'inclusion]]
 - [[Innovation as a team sport]]
 - [[Intelligence augmentée]]
 - [[Liquid cooling]]
+- [[Logique de temporalité]]
 - [[Modèles du monde (Common sense)]]
 - [[Souveraineté (capacitaire)]]
 - [[Souveraineté (coopérative)]]
@@ -265,7 +268,7 @@
 - [[Transcript - Talk Innovate]]
 - [[Transcript - Talk Inspire]]
 
-## Citations (20)
+## Citations (23)
 - [[Citation - Circulation permanente des talents]]
 - [[Citation - Contrôle et fondamentaux]]
 - [[Citation - De l'intelligence artificielle à l'intelligence augmentée]]
@@ -277,8 +280,11 @@
 - [[Citation - L'entrepreneur effacé des contrats]]
 - [[Citation - L'impasse de l'IA générative]]
 - [[Citation - La souveraineté se construit]]
+- [[Citation - Le LLM est devenu un détail]]
 - [[Citation - Les bas salaires bloquent la digitalisation]]
+- [[Citation - Mourir à 30 mètres sous l'eau]]
 - [[Citation - Ne pas subir l'IA]]
+- [[Citation - Ne pas subir son système d'information]]
 - [[Citation - Perdre la courbe d'apprentissage]]
 - [[Citation - Plus vite, pas mieux]]
 - [[Citation - Préparer l'avenir sans attendre]]

@@ -15,6 +15,6 @@ Sessions : [[Talk Inspire - Scaling our startups ecosystem]] · [[AI Startups Aw
 
 **Transcripts :** [[Transcript - Talk Innovate]] · [[Transcript - Talk Inspire]]
 **Citations :** [[Citation - Circulation permanente des talents]] · [[Citation - Dynamique sans écosystème]]
-**Notions :** [[Corporate Venture Capital (CVC)]]
+**Notions :** [[Corporate Venture Capital (CVC)]] · [[Logique de temporalité]]
 
 <!-- TGF-AUTO-LINKS:END -->
