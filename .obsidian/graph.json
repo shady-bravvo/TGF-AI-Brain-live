@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "sihem joui",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -172,6 +172,6 @@
   "repelStrength": 10.6727430555556,
   "linkStrength": 0.789713541666667,
   "linkDistance": 250,
-  "scale": 1.9850830123524967,
-  "close": false
+  "scale": 0.5441121643762495,
+  "close": true
 }
